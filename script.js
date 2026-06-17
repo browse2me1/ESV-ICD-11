@@ -44,11 +44,26 @@ async function loadData() {
     }
 }
 
+function highlightText(text, keyword) {
+
+    if (!keyword) return text;
+
+    const regex = new RegExp(`(${keyword})`, "gi");
+
+    return text.replace(
+        regex,
+        '<span class="highlight">$1</span>'
+    );
+}
 // ======================
 // DISPLAY RESULTS
 // ======================
 
 function displayResults(data) {
+    const keyword =
+    document.getElementById("searchInput")
+    ? document.getElementById("searchInput").value.trim()
+    : "";
 
     const results = document.getElementById("results");
 
@@ -73,7 +88,7 @@ function displayResults(data) {
             <div class="card-header">
 
                 <span class="code">
-                    ${item.code}
+                    ${highlightText(item.code, keyword)}
                 </span>
 
                 <div class="card-actions">
@@ -101,11 +116,11 @@ function displayResults(data) {
             </div>
 
             <div class="disease">
-                ${item.category}
+                ${highlightText(item.category, keyword)}
             </div>
 
             <div class="chapter-badge">
-                ${item.chapter}
+                ${highlightText(item.chapter, keyword)}
             </div>
 
         </div>
