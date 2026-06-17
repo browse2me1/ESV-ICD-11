@@ -370,8 +370,8 @@ darkBtn.addEventListener("click", () => {
 
     darkBtn.innerHTML =
         isDark
-            ? "☀️ Light Mode"
-            : "🌙 Dark Mode";
+          ? "🌙 Dark Mode"
+            : "☀️ Light Mode";
 });
 // Mobile Sidebar Toggle
 
