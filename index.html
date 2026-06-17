@@ -1,0 +1,217 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="ESV ICD-11 Smart Tool">
+    <meta name="author" content="Anmut Tsegaye">
+
+    <title>ESV ICD-11 Smart Tool</title>
+   <link rel="icon" sizes="32x32" href="image/icon.png">
+<link rel="icon" sizes="16x16" href="image/icon.png">
+<link rel="apple-touch-icon" href="image/icon.png">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <!-- Loading Screen -->
+    <div id="loader">
+        <div class="spinner"></div>
+        <p>Loading ICD-11 Database...</p>
+    </div>
+<button id="menuToggle" class="menu-toggle">
+    ☰
+</button>
+    <!-- Sidebar -->
+    <aside class="sidebar" id="sidebar">
+
+        <div class="logo">
+            <h2>🏥 ESV ICD-11</h2>
+            <span>Smart Tool</span>
+        </div>
+
+        <ul class="menu">
+
+    <li class="active"
+        onclick="showSection('dashboardSection', this)">
+        📊 Dashboard
+    </li>
+
+    <li
+        onclick="showSection('searchSection', this)">
+        🔍 Search
+    </li>
+
+    <li
+        onclick="showSection('favoritesSection', this)">
+        ⭐ Favorites
+    </li>
+
+    <li
+        onclick="showSection('chaptersSection', this)">
+        📚 Chapters
+    </li>
+
+    <li id="darkModeBtn">
+        🌙 Dark Mode
+    </li>
+
+    <li
+        onclick="showSection('aboutSection', this)">
+        ℹ️ About
+    </li>
+
+</ul>
+
+    </aside>
+
+    <!-- Main Content -->
+   <main class="main-content">
+
+     <h1>ESV ICD-11 Smart Tool</h1>
+    <!-- DASHBOARD -->
+    <section id="dashboardSection" class="page-section">
+
+        <div class="header">
+
+            <div class="welcome-banner">
+                <h2>Welcome 👋</h2>
+                <p>
+                    Search over 1400+ ICD-11 diseases
+                    instantly, even without internet.
+                </p>
+            </div>
+
+            <div>
+                <p>
+                    Offline Disease Classification &
+                    ICD Coding Assistant
+                </p>
+            </div>
+
+        </div>
+
+        <section class="dashboard-cards">
+
+            <div class="stat-card">
+                <h3 id="totalDiseases">0</h3>
+                <p>Diseases</p>
+            </div>
+
+            <div class="stat-card">
+                <h3 id="totalChapters">0</h3>
+                <p>Chapters</p>
+            </div>
+
+            <div class="stat-card">
+                <h3>X</h3>
+                <p>Extension Codes</p>
+            </div>
+
+        </section>
+
+    </section>
+
+    <!-- SEARCH -->
+    <section
+    id="searchSection"
+    class="page-section"
+    style="display:none;">
+
+        <div class="search-box">
+
+            <span class="search-icon">🔍</span>
+
+            <input
+                type="text"
+                id="searchInput"
+                placeholder="Search disease name, ICD code..."
+                autocomplete="off">
+
+        </div>
+
+        <div class="result-info">
+            <span id="resultCount">
+                Loading records...
+            </span>
+        </div>
+
+        <section id="results"></section>
+
+    </section>
+
+    <!-- CHAPTERS -->
+    <section
+        id="chaptersSection"
+        class="page-section"
+        style="display:none;">
+
+        <div class="section-title">
+            <h2>📚 Browse Chapters</h2>
+        </div>
+
+        <div id="chapterContainer"></div>
+
+    </section>
+
+    <!-- FAVORITES -->
+    <section
+        id="favoritesSection"
+        class="page-section"
+        style="display:none;">
+
+        <div class="section-title">
+            <h2>⭐ Favorites</h2>
+        </div>
+
+        <div id="favoriteResults">
+
+            <div class="empty-state">
+                No favorite diseases saved.
+            </div>
+
+        </div>
+
+    </section>
+
+    <!-- ABOUT -->
+    <section
+        id="aboutSection"
+        class="page-section"
+        style="display:none;">
+
+        <div class="about-card">
+
+            <h2>🏥 About ESV ICD-11 Smart Tool</h2>
+
+            <p>
+                ESV ICD-11 Smart Tool is an offline
+                disease coding and classification
+                system designed for:
+            </p>
+
+            <ul>
+                <li>Health Informaticians</li>
+                <li>HMIS Officers</li>
+                <li>Clinicians</li>
+            </ul>
+
+            <p>
+                Contains more than 1400 diseases,
+                organized into 26 ICD-11 chapters.
+            </p>
+
+            <p>
+                Developed by <b>Anmut Tsegaye (BSC in Health Informatics)</b>.
+            </p>
+
+        </div>
+
+    </section>
+
+</main>
+
+    <script src="script.js"></script>
+
+</body>
+</html>

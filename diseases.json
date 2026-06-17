@@ -1,0 +1,7042 @@
+[
+  {
+    "code": "1A00",
+    "category": "Cholera",
+    "chapter": "Chapter 1"
+  },
+  {
+    "code": "1A02",
+    "category": "Intestinal infections due to Shigella",
+    "chapter": "Chapter 1"
+  },
+  {
+    "code": "1A03",
+    "category": "Intestinal infections due to Escherichia coli",
+    "chapter": "Chapter 1"
+  },
+  {
+    "code": "1A07",
+    "category": "Typhoid fever",
+    "chapter": "Chapter 1"
+  },
+  {
+    "code": "1A08",
+    "category": "Paratyphoid fever",
+    "chapter": "Chapter 1"
+  },
+  {
+    "code": "1A0Y",
+    "category": "Other specified bacterial intestinal infections",
+    "chapter": "Chapter 1"
+  },
+  {
+    "code": "1A0Z",
+    "category": "Bacterial intestinal infections unspecified",
+    "chapter": "Chapter 1"
+  },
+  {
+    "code": "1A1Z",
+    "category": "Bacterial foodborne intoxications unspecified",
+    "chapter": "Chapter 1"
+  },
+  {
+    "code": "1A2Z",
+    "category": "Viral intestinal infections unspecified",
+    "chapter": "Chapter 1"
+  },
+  {
+    "code": "1A31",
+    "category": "Giardiasis",
+    "chapter": "Chapter 1"
+  },
+  {
+    "code": "1A36",
+    "category": "Amoebiasis",
+    "chapter": "Chapter 1"
+  },
+  {
+    "code": "1A36.10",
+    "category": "Amoebic liver abscess",
+    "chapter": "Chapter 1"
+  },
+  {
+    "code": "1A36.1Y",
+    "category": "Amoebiasis of other specified sites",
+    "chapter": "Chapter 1"
+  },
+  {
+    "code": "1A3Y",
+    "category": "Other specified protozoal intestinal infections",
+    "chapter": "Chapter 1"
+  },
+  {
+    "code": "1A40",
+    "category": "Gastroenteritis or colitis without specification of infectious agent",
+    "chapter": "Chapter 1"
+  },
+  {
+    "code": "1A60",
+    "category": "Congenital syphilis",
+    "chapter": "Chapter 1"
+  },
+  {
+    "code": "1A61",
+    "category": "Early syphilis",
+    "chapter": "Chapter 1"
+  },
+  {
+    "code": "1A62.1",
+    "category": "Cardiovascular late syphilis",
+    "chapter": "Chapter 1"
+  },
+  {
+    "code": "1A6Z",
+    "category": "Syphilis unspecified",
+    "chapter": "Chapter 1"
+  },
+  {
+    "code": "1A70",
+    "category": "Gonococcal genitourinary infection",
+    "chapter": "Chapter 1"
+  },
+  {
+    "code": "1A72",
+    "category": "Gonococcal infection of other sites",
+    "chapter": "Chapter 1"
+  },
+  {
+    "code": "1A73",
+    "category": "Disseminated gonococcal infection",
+    "chapter": "Chapter 1"
+  },
+  {
+    "code": "1A7Z",
+    "category": "Gonococcal infection unspecified",
+    "chapter": "Chapter 1"
+  },
+  {
+    "code": "1A80",
+    "category": "Chlamydial lymphogranuloma",
+    "chapter": "Chapter 1"
+  },
+  {
+    "code": "1A8Z",
+    "category": "Sexually transmissible infections due to chlamydia unspecified",
+    "chapter": "Chapter 1"
+  },
+  {
+    "code": "1A90",
+    "category": "Chancroid",
+    "chapter": "Chapter 1"
+  },
+  {
+    "code": "1A91",
+    "category": "Granuloma inguinale",
+    "chapter": "Chapter 1"
+  },
+  {
+    "code": "1A92",
+    "category": "Trichomoniasis",
+    "chapter": "Chapter 1"
+  },
+  {
+    "code": "1A93",
+    "category": "Sexually transmissible infestations",
+    "chapter": "Chapter 1"
+  },
+  {
+    "code": "1A94",
+    "category": "Anogenital herpes simplex infection",
+    "chapter": "Chapter 1"
+  },
+  {
+    "code": "1A95.0",
+    "category": "Anal warts",
+    "chapter": "Chapter 1"
+  },
+  {
+    "code": "1A95.1",
+    "category": "Genital warts",
+    "chapter": "Chapter 1"
+  },
+  {
+    "code": "1B10.0",
+    "category": "Respiratory tuberculosis confirmed",
+    "chapter": "Chapter 1"
+  },
+  {
+    "code": "1B10.1",
+    "category": "Respiratory tuberculosis not confirmed",
+    "chapter": "Chapter 1"
+  },
+  {
+    "code": "1B11.0",
+    "category": "Tuberculous meningitis",
+    "chapter": "Chapter 1"
+  },
+  {
+    "code": "1B11.3",
+    "category": "Tuberculous granuloma of brain",
+    "chapter": "Chapter 1"
+  },
+  {
+    "code": "1B11.Z",
+    "category": "Tuberculosis of the nervous system unspecified",
+    "chapter": "Chapter 1"
+  },
+  {
+    "code": "1B12.4",
+    "category": "Tuberculosis of the musculoskeletal system",
+    "chapter": "Chapter 1"
+  },
+  {
+    "code": "1B12.5",
+    "category": "Tuberculosis of the genitourinary system",
+    "chapter": "Chapter 1"
+  },
+  {
+    "code": "1B12.6",
+    "category": "Tuberculous peripheral lymphadenopathy",
+    "chapter": "Chapter 1"
+  },
+  {
+    "code": "1B12.7",
+    "category": "Tuberculosis of the digestive system",
+    "chapter": "Chapter 1"
+  },
+  {
+    "code": "1B12.Y",
+    "category": "Tuberculosis of other specified organ or site",
+    "chapter": "Chapter 1"
+  },
+  {
+    "code": "1B13",
+    "category": "Miliary tuberculosis",
+    "chapter": "Chapter 1"
+  },
+  {
+    "code": "1B14",
+    "category": "Latent tuberculosis",
+    "chapter": "Chapter 1"
+  },
+  {
+    "code": "1B1Z",
+    "category": "Tuberculosis unspecified",
+    "chapter": "Chapter 1"
+  },
+  {
+    "code": "1B20.0",
+    "category": "Paucibacillary leprosy",
+    "chapter": "Chapter 1"
+  },
+  {
+    "code": "1B20.1",
+    "category": "Multibacillary leprosy",
+    "chapter": "Chapter 1"
+  },
+  {
+    "code": "1B20.2",
+    "category": "Leprosy reactions",
+    "chapter": "Chapter 1"
+  },
+  {
+    "code": "1B20.Z",
+    "category": "Leprosy unspecified",
+    "chapter": "Chapter 1"
+  },
+  {
+    "code": "1B2Z",
+    "category": "Mycobacterial diseases unspecified",
+    "chapter": "Chapter 1"
+  },
+  {
+    "code": "1B40",
+    "category": "Acute rheumatic fever without mention of heart involvement",
+    "chapter": "Chapter 1"
+  },
+  {
+    "code": "1B41",
+    "category": "Acute rheumatic fever with heart involvement",
+    "chapter": "Chapter 1"
+  },
+  {
+    "code": "1B42",
+    "category": "Rheumatic chorea",
+    "chapter": "Chapter 1"
+  },
+  {
+    "code": "1B50",
+    "category": "Scarlet fever",
+    "chapter": "Chapter 1"
+  },
+  {
+    "code": "1B51",
+    "category": "Streptococcal pharyngitis",
+    "chapter": "Chapter 1"
+  },
+  {
+    "code": "1B52",
+    "category": "Toxic shock syndrome",
+    "chapter": "Chapter 1"
+  },
+  {
+    "code": "1B53",
+    "category": "Meningitis due to Streptococcus",
+    "chapter": "Chapter 1"
+  },
+  {
+    "code": "1B70.0",
+    "category": "Erysipelas",
+    "chapter": "Chapter 1"
+  },
+  {
+    "code": "1B70.Z",
+    "category": "Bacterial cellulitis or lymphangitis due to unspecified bacterium",
+    "chapter": "Chapter 1"
+  },
+  {
+    "code": "1B71",
+    "category": "Necrotising fasciitis",
+    "chapter": "Chapter 1"
+  },
+  {
+    "code": "1B72.Z",
+    "category": "Impetigo unspecified",
+    "chapter": "Chapter 1"
+  },
+  {
+    "code": "1B74",
+    "category": "Superficial bacterial folliculitis",
+    "chapter": "Chapter 1"
+  },
+  {
+    "code": "1B75.0",
+    "category": "Furuncle",
+    "chapter": "Chapter 1"
+  },
+  {
+    "code": "1B75.1",
+    "category": "Carbuncle",
+    "chapter": "Chapter 1"
+  },
+  {
+    "code": "1B75.3",
+    "category": "Pyogenic abscess of the skin",
+    "chapter": "Chapter 1"
+  },
+  {
+    "code": "1B95",
+    "category": "Brucellosis",
+    "chapter": "Chapter 1"
+  },
+  {
+    "code": "1B97",
+    "category": "Anthrax",
+    "chapter": "Chapter 1"
+  },
+  {
+    "code": "1B98",
+    "category": "Cat-scratch disease",
+    "chapter": "Chapter 1"
+  },
+  {
+    "code": "1C12",
+    "category": "Whooping cough",
+    "chapter": "Chapter 1"
+  },
+  {
+    "code": "1C13",
+    "category": "Tetanus",
+    "chapter": "Chapter 1"
+  },
+  {
+    "code": "1C14",
+    "category": "Obstetrical tetanus",
+    "chapter": "Chapter 1"
+  },
+  {
+    "code": "1C15",
+    "category": "Tetanus neonatorum",
+    "chapter": "Chapter 1"
+  },
+  {
+    "code": "1C16",
+    "category": "Gas gangrene",
+    "chapter": "Chapter 1"
+  },
+  {
+    "code": "1C17",
+    "category": "Diphtheria",
+    "chapter": "Chapter 1"
+  },
+  {
+    "code": "1C1C.0",
+    "category": "Meningococcal meningitis",
+    "chapter": "Chapter 1"
+  },
+  {
+    "code": "1C1C.2",
+    "category": "Meningococcaemia",
+    "chapter": "Chapter 1"
+  },
+  {
+    "code": "1C20",
+    "category": "Chlamydial conjunctivitis",
+    "chapter": "Chapter 1"
+  },
+  {
+    "code": "1C23.0",
+    "category": "Initial stage of trachoma",
+    "chapter": "Chapter 1"
+  },
+  {
+    "code": "1C23.1",
+    "category": "Active stage of trachoma",
+    "chapter": "Chapter 1"
+  },
+  {
+    "code": "1C23.Z",
+    "category": "Trachoma unspecified",
+    "chapter": "Chapter 1"
+  },
+  {
+    "code": "1C44",
+    "category": "Non-pyogenic bacterial infections of the skin",
+    "chapter": "Chapter 1"
+  },
+  {
+    "code": "1C4Y",
+    "category": "Other specified bacterial diseases",
+    "chapter": "Chapter 1"
+  },
+  {
+    "code": "1C60",
+    "category": "Human immunodeficiency virus disease associated with tuberculosis",
+    "chapter": "Chapter 1"
+  },
+  {
+    "code": "1C62",
+    "category": "Human immunodeficiency virus disease without mention of tuberculosis or malaria",
+    "chapter": "Chapter 1"
+  },
+  {
+    "code": "1C80",
+    "category": "Viral encephalitis not elsewhere classified",
+    "chapter": "Chapter 1"
+  },
+  {
+    "code": "1C81",
+    "category": "Acute poliomyelitis",
+    "chapter": "Chapter 1"
+  },
+  {
+    "code": "1C82",
+    "category": "Rabies",
+    "chapter": "Chapter 1"
+  },
+  {
+    "code": "1D00.0",
+    "category": "Bacterial encephalitis",
+    "chapter": "Chapter 1"
+  },
+  {
+    "code": "1D01.0",
+    "category": "Bacterial meningitis",
+    "chapter": "Chapter 1"
+  },
+  {
+    "code": "1D22",
+    "category": "Severe dengue",
+    "chapter": "Chapter 1"
+  },
+  {
+    "code": "1D2Z",
+    "category": "Dengue fever unspecified",
+    "chapter": "Chapter 1"
+  },
+  {
+    "code": "1D40",
+    "category": "Chikungunya virus disease",
+    "chapter": "Chapter 1"
+  },
+  {
+    "code": "1D47",
+    "category": "Yellow fever",
+    "chapter": "Chapter 1"
+  },
+  {
+    "code": "1D48",
+    "category": "Zika virus disease",
+    "chapter": "Chapter 1"
+  },
+  {
+    "code": "1D60.0",
+    "category": "Ebola disease",
+    "chapter": "Chapter 1"
+  },
+  {
+    "code": "1D65",
+    "category": "Severe acute respiratory syndrome",
+    "chapter": "Chapter 1"
+  },
+  {
+    "code": "1D6Y",
+    "category": "Other specified zoonotic viral diseases",
+    "chapter": "Chapter 1"
+  },
+  {
+    "code": "1D80",
+    "category": "Mumps",
+    "chapter": "Chapter 1"
+  },
+  {
+    "code": "1D84",
+    "category": "Viral conjunctivitis",
+    "chapter": "Chapter 1"
+  },
+  {
+    "code": "1D86",
+    "category": "Viral haemorrhagic fever not elsewhere classified",
+    "chapter": "Chapter 1"
+  },
+  {
+    "code": "1E32",
+    "category": "Influenza virus not identified",
+    "chapter": "Chapter 1"
+  },
+  {
+    "code": "1E50",
+    "category": "Acute viral hepatitis",
+    "chapter": "Chapter 1"
+  },
+  {
+    "code": "1E50.0",
+    "category": "Acute hepatitis A",
+    "chapter": "Chapter 1"
+  },
+  {
+    "code": "1E50.1",
+    "category": "Acute hepatitis B",
+    "chapter": "Chapter 1"
+  },
+  {
+    "code": "1E50.2",
+    "category": "Acute hepatitis C",
+    "chapter": "Chapter 1"
+  },
+  {
+    "code": "1E50.4",
+    "category": "Acute hepatitis E",
+    "chapter": "Chapter 1"
+  },
+  {
+    "code": "1E51",
+    "category": "Chronic viral hepatitis",
+    "chapter": "Chapter 1"
+  },
+  {
+    "code": "1E51.Y",
+    "category": "Other specified chronic viral hepatitis",
+    "chapter": "Chapter 1"
+  },
+  {
+    "code": "1E76",
+    "category": "Molluscum contagiosum",
+    "chapter": "Chapter 1"
+  },
+  {
+    "code": "1E80",
+    "category": "Common warts",
+    "chapter": "Chapter 1"
+  },
+  {
+    "code": "1E80.1",
+    "category": "Plantar warts",
+    "chapter": "Chapter 1"
+  },
+  {
+    "code": "1E81",
+    "category": "Plane warts",
+    "chapter": "Chapter 1"
+  },
+  {
+    "code": "1E90",
+    "category": "Varicella",
+    "chapter": "Chapter 1"
+  },
+  {
+    "code": "1E91",
+    "category": "Zoster",
+    "chapter": "Chapter 1"
+  },
+  {
+    "code": "1F00",
+    "category": "Herpes simplex infections",
+    "chapter": "Chapter 1"
+  },
+  {
+    "code": "1F00.0",
+    "category": "Herpes simplex infection of skin or mucous membrane",
+    "chapter": "Chapter 1"
+  },
+  {
+    "code": "1F03",
+    "category": "Measles",
+    "chapter": "Chapter 1"
+  },
+  {
+    "code": "1F03.Y",
+    "category": "Measles with other complications",
+    "chapter": "Chapter 1"
+  },
+  {
+    "code": "1F23",
+    "category": "Candidosis",
+    "chapter": "Chapter 1"
+  },
+  {
+    "code": "1F23.10",
+    "category": "Vulvovaginal candidosis",
+    "chapter": "Chapter 1"
+  },
+  {
+    "code": "1F23.2",
+    "category": "Candidosis of gastrointestinal tract",
+    "chapter": "Chapter 1"
+  },
+  {
+    "code": "1F27.1",
+    "category": "Cerebral cryptococcosis",
+    "chapter": "Chapter 1"
+  },
+  {
+    "code": "1F28",
+    "category": "Dermatophytosis",
+    "chapter": "Chapter 1"
+  },
+  {
+    "code": "1F28.0",
+    "category": "Dermatophytosis of scalp",
+    "chapter": "Chapter 1"
+  },
+  {
+    "code": "1F28.1",
+    "category": "Dermatophytosis of nail",
+    "chapter": "Chapter 1"
+  },
+  {
+    "code": "1F28.2",
+    "category": "Dermatophytosis of foot",
+    "chapter": "Chapter 1"
+  },
+  {
+    "code": "1F28.3",
+    "category": "Genitocrural dermatophytosis",
+    "chapter": "Chapter 1"
+  },
+  {
+    "code": "1F28.4",
+    "category": "Kerion",
+    "chapter": "Chapter 1"
+  },
+  {
+    "code": "1F28.Y",
+    "category": "Other specified dermatophytosis",
+    "chapter": "Chapter 1"
+  },
+  {
+    "code": "1F2C",
+    "category": "Mucormycosis",
+    "chapter": "Chapter 1"
+  },
+  {
+    "code": "1F2D.0",
+    "category": "Pityriasis versicolor",
+    "chapter": "Chapter 1"
+  },
+  {
+    "code": "1F2Z",
+    "category": "Mycoses unspecified",
+    "chapter": "Chapter 1"
+  },
+  {
+    "code": "1F40",
+    "category": "Malaria due to Plasmodium falciparum",
+    "chapter": "Chapter 1"
+  },
+  {
+    "code": "1F41",
+    "category": "Malaria due to Plasmodium vivax",
+    "chapter": "Chapter 1"
+  },
+  {
+    "code": "1F42",
+    "category": "Malaria due to Plasmodium malariae",
+    "chapter": "Chapter 1"
+  },
+  {
+    "code": "1F43",
+    "category": "Malaria due to Plasmodium ovale",
+    "chapter": "Chapter 1"
+  },
+  {
+    "code": "1F4Z",
+    "category": "Malaria unspecified",
+    "chapter": "Chapter 1"
+  },
+  {
+    "code": "1F51",
+    "category": "African trypanosomiasis",
+    "chapter": "Chapter 1"
+  },
+  {
+    "code": "1F53",
+    "category": "Chagas disease",
+    "chapter": "Chapter 1"
+  },
+  {
+    "code": "1F54.0",
+    "category": "Visceral leishmaniasis",
+    "chapter": "Chapter 1"
+  },
+  {
+    "code": "1F54.1",
+    "category": "Cutaneous leishmaniasis",
+    "chapter": "Chapter 1"
+  },
+  {
+    "code": "1F54.2",
+    "category": "Mucocutaneous leishmaniasis",
+    "chapter": "Chapter 1"
+  },
+  {
+    "code": "1F54.Z",
+    "category": "Leishmaniasis unspecified",
+    "chapter": "Chapter 1"
+  },
+  {
+    "code": "1F57",
+    "category": "Toxoplasmosis",
+    "chapter": "Chapter 1"
+  },
+  {
+    "code": "1F57.1",
+    "category": "Meningoencephalitis due to Toxoplasma gondii",
+    "chapter": "Chapter 1"
+  },
+  {
+    "code": "1F62",
+    "category": "Ascariasis",
+    "chapter": "Chapter 1"
+  },
+  {
+    "code": "1F64",
+    "category": "Dracunculiasis",
+    "chapter": "Chapter 1"
+  },
+  {
+    "code": "1F65",
+    "category": "Enterobiasis",
+    "chapter": "Chapter 1"
+  },
+  {
+    "code": "1F66.3",
+    "category": "Lymphatic filariasis",
+    "chapter": "Chapter 1"
+  },
+  {
+    "code": "1F66.Z",
+    "category": "Filariasis unspecified",
+    "chapter": "Chapter 1"
+  },
+  {
+    "code": "1F68",
+    "category": "Hookworm diseases",
+    "chapter": "Chapter 1"
+  },
+  {
+    "code": "1F6A",
+    "category": "Onchocerciasis",
+    "chapter": "Chapter 1"
+  },
+  {
+    "code": "1F6B",
+    "category": "Strongyloidiasis",
+    "chapter": "Chapter 1"
+  },
+  {
+    "code": "1F6G",
+    "category": "Trichuriasis",
+    "chapter": "Chapter 1"
+  },
+  {
+    "code": "1F70",
+    "category": "Cysticercosis",
+    "chapter": "Chapter 1"
+  },
+  {
+    "code": "1F73.Z",
+    "category": "Echinococcosis unspecified",
+    "chapter": "Chapter 1"
+  },
+  {
+    "code": "1F74",
+    "category": "Hymenolepiasis",
+    "chapter": "Chapter 1"
+  },
+  {
+    "code": "1F76.0",
+    "category": "Taeniasis due to Taenia solium",
+    "chapter": "Chapter 1"
+  },
+  {
+    "code": "1F76.1",
+    "category": "Taeniasis due to Taenia saginata",
+    "chapter": "Chapter 1"
+  },
+  {
+    "code": "1F86",
+    "category": "Schistosomiasis",
+    "chapter": "Chapter 1"
+  },
+  {
+    "code": "1F86.0",
+    "category": "Schistosomiasis due to Schistosoma haematobium",
+    "chapter": "Chapter 1"
+  },
+  {
+    "code": "1F86.1",
+    "category": "Schistosomiasis due to Schistosoma mansoni",
+    "chapter": "Chapter 1"
+  },
+  {
+    "code": "1F9Z",
+    "category": "Helminthiases unspecified",
+    "chapter": "Chapter 1"
+  },
+  {
+    "code": "1G00",
+    "category": "Pediculosis",
+    "chapter": "Chapter 1"
+  },
+  {
+    "code": "1G01",
+    "category": "Myiasis",
+    "chapter": "Chapter 1"
+  },
+  {
+    "code": "1G02",
+    "category": "External hirudiniasis",
+    "chapter": "Chapter 1"
+  },
+  {
+    "code": "1G03",
+    "category": "Pthiriasis",
+    "chapter": "Chapter 1"
+  },
+  {
+    "code": "1G2Y",
+    "category": "Other specified parasitic diseases",
+    "chapter": "Chapter 1"
+  },
+  {
+    "code": "1G40",
+    "category": "Sepsis without septic shock",
+    "chapter": "Chapter 1"
+  },
+  {
+    "code": "1G41",
+    "category": "Sepsis with septic shock",
+    "chapter": "Chapter 1"
+  },
+  {
+    "code": "2A00",
+    "category": "Primary neoplasms of brain",
+    "chapter": "Chapter 2"
+  },
+  {
+    "code": "2A00.00",
+    "category": "Glioblastoma of brain",
+    "chapter": "Chapter 2"
+  },
+  {
+    "code": "2A01",
+    "category": "Primary neoplasms of meninges",
+    "chapter": "Chapter 2"
+  },
+  {
+    "code": "2A0Z",
+    "category": "Other and unspecified neoplasms of brain or central nervous system",
+    "chapter": "Chapter 2"
+  },
+  {
+    "code": "2A20.4",
+    "category": "Polycythaemia vera",
+    "chapter": "Chapter 2"
+  },
+  {
+    "code": "2A3Z",
+    "category": "Myelodysplastic syndromes unspecified",
+    "chapter": "Chapter 2"
+  },
+  {
+    "code": "2A40",
+    "category": "Chronic myelomonocytic leukaemia",
+    "chapter": "Chapter 2"
+  },
+  {
+    "code": "2A4Z",
+    "category": "Myelodysplastic and myeloproliferative neoplasms unspecified",
+    "chapter": "Chapter 2"
+  },
+  {
+    "code": "2A60.3Z",
+    "category": "Acute myeloid leukaemia unspecified",
+    "chapter": "Chapter 2"
+  },
+  {
+    "code": "2A80",
+    "category": "Follicular lymphoma",
+    "chapter": "Chapter 2"
+  },
+  {
+    "code": "2A85.6",
+    "category": "Burkitt lymphoma including Burkitt leukaemia",
+    "chapter": "Chapter 2"
+  },
+  {
+    "code": "2B30",
+    "category": "Hodgkin lymphoma",
+    "chapter": "Chapter 2"
+  },
+  {
+    "code": "2B33.1",
+    "category": "Myeloid leukaemia",
+    "chapter": "Chapter 2"
+  },
+  {
+    "code": "2B33.3",
+    "category": "Lymphoid leukaemia not elsewhere classified",
+    "chapter": "Chapter 2"
+  },
+  {
+    "code": "2B33.4",
+    "category": "Leukaemia unspecified",
+    "chapter": "Chapter 2"
+  },
+  {
+    "code": "2B3Z",
+    "category": "Neoplasms of haematopoietic or lymphoid tissues unspecified",
+    "chapter": "Chapter 2"
+  },
+  {
+    "code": "2B51",
+    "category": "Osteosarcoma primary site",
+    "chapter": "Chapter 2"
+  },
+  {
+    "code": "2B55",
+    "category": "Rhabdomyosarcoma primary site",
+    "chapter": "Chapter 2"
+  },
+  {
+    "code": "2B57",
+    "category": "Kaposi sarcoma primary site",
+    "chapter": "Chapter 2"
+  },
+  {
+    "code": "2B6B",
+    "category": "Malignant neoplasms of nasopharynx",
+    "chapter": "Chapter 2"
+  },
+  {
+    "code": "2B6Z",
+    "category": "Malignant neoplasms of lip oral cavity or pharynx unspecified",
+    "chapter": "Chapter 2"
+  },
+  {
+    "code": "2B70",
+    "category": "Malignant neoplasms of oesophagus",
+    "chapter": "Chapter 2"
+  },
+  {
+    "code": "2B72",
+    "category": "Malignant neoplasms of stomach",
+    "chapter": "Chapter 2"
+  },
+  {
+    "code": "2B90",
+    "category": "Malignant neoplasms of colon",
+    "chapter": "Chapter 2"
+  },
+  {
+    "code": "2B92",
+    "category": "Malignant neoplasms of rectum",
+    "chapter": "Chapter 2"
+  },
+  {
+    "code": "2C10",
+    "category": "Malignant neoplasm of pancreas",
+    "chapter": "Chapter 2"
+  },
+  {
+    "code": "2C12.0",
+    "category": "Malignant neoplasm of liver",
+    "chapter": "Chapter 2"
+  },
+  {
+    "code": "2C12.01",
+    "category": "Hepatoblastoma",
+    "chapter": "Chapter 2"
+  },
+  {
+    "code": "2C13",
+    "category": "Malignant neoplasms of gallbladder",
+    "chapter": "Chapter 2"
+  },
+  {
+    "code": "2C23",
+    "category": "Malignant neoplasms of larynx",
+    "chapter": "Chapter 2"
+  },
+  {
+    "code": "2C24",
+    "category": "Malignant neoplasms of trachea",
+    "chapter": "Chapter 2"
+  },
+  {
+    "code": "2C25",
+    "category": "Malignant neoplasms of bronchus or lung",
+    "chapter": "Chapter 2"
+  },
+  {
+    "code": "2C26",
+    "category": "Malignant neoplasms of the pleura",
+    "chapter": "Chapter 2"
+  },
+  {
+    "code": "2C30",
+    "category": "Melanoma of skin",
+    "chapter": "Chapter 2"
+  },
+  {
+    "code": "2C63",
+    "category": "Malignant phyllodes tumour of breast",
+    "chapter": "Chapter 2"
+  },
+  {
+    "code": "2C6Z",
+    "category": "Malignant neoplasms of breast unspecified",
+    "chapter": "Chapter 2"
+  },
+  {
+    "code": "2C77",
+    "category": "Malignant neoplasms of cervix uteri",
+    "chapter": "Chapter 2"
+  },
+  {
+    "code": "2C80",
+    "category": "Malignant neoplasms of testis",
+    "chapter": "Chapter 2"
+  },
+  {
+    "code": "2C82",
+    "category": "Malignant neoplasms of prostate",
+    "chapter": "Chapter 2"
+  },
+  {
+    "code": "2C90",
+    "category": "Malignant neoplasms of kidney except renal pelvis",
+    "chapter": "Chapter 2"
+  },
+  {
+    "code": "2C94",
+    "category": "Malignant neoplasms of bladder",
+    "chapter": "Chapter 2"
+  },
+  {
+    "code": "2D02.2",
+    "category": "Retinoblastoma",
+    "chapter": "Chapter 2"
+  },
+  {
+    "code": "2D10",
+    "category": "Malignant neoplasms of thyroid gland",
+    "chapter": "Chapter 2"
+  },
+  {
+    "code": "2E66",
+    "category": "Carcinoma in situ of cervix uteri",
+    "chapter": "Chapter 2"
+  },
+  {
+    "code": "2E80.0",
+    "category": "Lipoma",
+    "chapter": "Chapter 2"
+  },
+  {
+    "code": "2E86.0",
+    "category": "Leiomyoma of uterus",
+    "chapter": "Chapter 2"
+  },
+  {
+    "code": "2E86.2",
+    "category": "Rhabdomyoma",
+    "chapter": "Chapter 2"
+  },
+  {
+    "code": "2F30.5",
+    "category": "Fibroadenoma of breast",
+    "chapter": "Chapter 2"
+  },
+  {
+    "code": "2F33",
+    "category": "Benign neoplasm of other or unspecified female genital organs",
+    "chapter": "Chapter 2"
+  },
+  {
+    "code": "3A00.0",
+    "category": "Acquired iron deficiency anaemia due to blood loss",
+    "chapter": "Chapter 3"
+  },
+  {
+    "code": "3A00.1",
+    "category": "Acquired iron deficiency anaemia due to low intake",
+    "chapter": "Chapter 3"
+  },
+  {
+    "code": "3A00.Z",
+    "category": "Iron deficiency anaemia unspecified",
+    "chapter": "Chapter 3"
+  },
+  {
+    "code": "3A01",
+    "category": "Megaloblastic anaemia due to vitamin B12 deficiency",
+    "chapter": "Chapter 3"
+  },
+  {
+    "code": "3A01.2",
+    "category": "Vitamin B12 deficiency anaemia due to low intake",
+    "chapter": "Chapter 3"
+  },
+  {
+    "code": "3A02",
+    "category": "Folate deficiency anaemia",
+    "chapter": "Chapter 3"
+  },
+  {
+    "code": "3A4Z",
+    "category": "Haemolytic anaemias unspecified",
+    "chapter": "Chapter 3"
+  },
+  {
+    "code": "3A70.Z",
+    "category": "Aplastic anaemia unspecified",
+    "chapter": "Chapter 3"
+  },
+  {
+    "code": "3A71",
+    "category": "Anaemia due to chronic disease",
+    "chapter": "Chapter 3"
+  },
+  {
+    "code": "3A8Z",
+    "category": "Polycythaemia unspecified",
+    "chapter": "Chapter 3"
+  },
+  {
+    "code": "3A94",
+    "category": "Acute posthaemorrhagic anaemia",
+    "chapter": "Chapter 3"
+  },
+  {
+    "code": "3B63",
+    "category": "Thrombocytosis",
+    "chapter": "Chapter 3"
+  },
+  {
+    "code": "3B64.Z",
+    "category": "Thrombocytopenia unspecified",
+    "chapter": "Chapter 3"
+  },
+  {
+    "code": "3B81.B",
+    "category": "Hypersplenism",
+    "chapter": "Chapter 3"
+  },
+  {
+    "code": "3C0Y",
+    "category": "Other specified diseases of the blood or blood-forming organs",
+    "chapter": "Chapter 3"
+  },
+  {
+    "code": "4A0Y",
+    "category": "Other specified primary immunodeficiencies",
+    "chapter": "Chapter 4"
+  },
+  {
+    "code": "4A20",
+    "category": "Acquired immunodeficiencies",
+    "chapter": "Chapter 4"
+  },
+  {
+    "code": "4A40",
+    "category": "Lupus erythematosus",
+    "chapter": "Chapter 4"
+  },
+  {
+    "code": "4A40.0",
+    "category": "Systemic lupus erythematosus",
+    "chapter": "Chapter 4"
+  },
+  {
+    "code": "4A44.2",
+    "category": "Giant cell arteritis",
+    "chapter": "Chapter 4"
+  },
+  {
+    "code": "4A84",
+    "category": "Anaphylaxis",
+    "chapter": "Chapter 4"
+  },
+  {
+    "code": "4A85.22",
+    "category": "Allergic contact dermatitis due to food allergen",
+    "chapter": "Chapter 4"
+  },
+  {
+    "code": "4A8Y",
+    "category": "Allergic or hypersensitivity conditions of other specified type",
+    "chapter": "Chapter 4"
+  },
+  {
+    "code": "4B4Y",
+    "category": "Other specified diseases of the immune system",
+    "chapter": "Chapter 4"
+  },
+  {
+    "code": "5A00",
+    "category": "Hypothyroidism",
+    "chapter": "Chapter 5"
+  },
+  {
+    "code": "5A00.0",
+    "category": "Congenital hypothyroidism",
+    "chapter": "Chapter 5"
+  },
+  {
+    "code": "5A00.2",
+    "category": "Acquired hypothyroidism",
+    "chapter": "Chapter 5"
+  },
+  {
+    "code": "5A01.0",
+    "category": "Nontoxic diffuse goitre",
+    "chapter": "Chapter 5"
+  },
+  {
+    "code": "5A01.1",
+    "category": "Nontoxic single thyroid nodule",
+    "chapter": "Chapter 5"
+  },
+  {
+    "code": "5A01.2",
+    "category": "Nontoxic multinodular goitre",
+    "chapter": "Chapter 5"
+  },
+  {
+    "code": "5A01.Z",
+    "category": "Nontoxic goitre unspecified",
+    "chapter": "Chapter 5"
+  },
+  {
+    "code": "5A02",
+    "category": "Thyrotoxicosis",
+    "chapter": "Chapter 5"
+  },
+  {
+    "code": "5A02.5",
+    "category": "Thyroid crisis",
+    "chapter": "Chapter 5"
+  },
+  {
+    "code": "5A03",
+    "category": "Thyroiditis",
+    "chapter": "Chapter 5"
+  },
+  {
+    "code": "5A10",
+    "category": "Type 1 diabetes mellitus",
+    "chapter": "Chapter 5"
+  },
+  {
+    "code": "5A11",
+    "category": "Type 2 diabetes mellitus",
+    "chapter": "Chapter 5"
+  },
+  {
+    "code": "5A13.4",
+    "category": "Diabetes mellitus due to drug or chemical",
+    "chapter": "Chapter 5"
+  },
+  {
+    "code": "5A14",
+    "category": "Diabetes mellitus type unspecified",
+    "chapter": "Chapter 5"
+  },
+  {
+    "code": "5A20.0",
+    "category": "Hyperosmolar hyperglycaemic state without coma",
+    "chapter": "Chapter 5"
+  },
+  {
+    "code": "5A20.1",
+    "category": "Hyperosmolar hyperglycaemic state with coma",
+    "chapter": "Chapter 5"
+  },
+  {
+    "code": "5A21.Z",
+    "category": "Hypoglycaemia in the context of diabetes unspecified",
+    "chapter": "Chapter 5"
+  },
+  {
+    "code": "5A22",
+    "category": "Diabetic acidosis",
+    "chapter": "Chapter 5"
+  },
+  {
+    "code": "5A22.0",
+    "category": "Diabetic ketoacidosis without coma",
+    "chapter": "Chapter 5"
+  },
+  {
+    "code": "5A22.3",
+    "category": "Diabetic ketoacidosis with coma",
+    "chapter": "Chapter 5"
+  },
+  {
+    "code": "5A23",
+    "category": "Diabetic coma",
+    "chapter": "Chapter 5"
+  },
+  {
+    "code": "5A24",
+    "category": "Uncontrolled or unstable diabetes mellitus",
+    "chapter": "Chapter 5"
+  },
+  {
+    "code": "5A40",
+    "category": "Intermediate hyperglycaemia",
+    "chapter": "Chapter 5"
+  },
+  {
+    "code": "5A40.0",
+    "category": "Impaired fasting glucose",
+    "chapter": "Chapter 5"
+  },
+  {
+    "code": "5A41",
+    "category": "Hypoglycaemia without associated diabetes",
+    "chapter": "Chapter 5"
+  },
+  {
+    "code": "5A50",
+    "category": "Hypoparathyroidism",
+    "chapter": "Chapter 5"
+  },
+  {
+    "code": "5A60",
+    "category": "Hyperfunction of pituitary gland",
+    "chapter": "Chapter 5"
+  },
+  {
+    "code": "5A60.0",
+    "category": "Acromegaly or pituitary gigantism",
+    "chapter": "Chapter 5"
+  },
+  {
+    "code": "5A70",
+    "category": "Cushing syndrome",
+    "chapter": "Chapter 5"
+  },
+  {
+    "code": "5A80.1",
+    "category": "Polycystic ovary syndrome",
+    "chapter": "Chapter 5"
+  },
+  {
+    "code": "5A91",
+    "category": "Delayed puberty",
+    "chapter": "Chapter 5"
+  },
+  {
+    "code": "5B50",
+    "category": "Underweight in infants children or adolescents",
+    "chapter": "Chapter 5"
+  },
+  {
+    "code": "5B51",
+    "category": "Wasting in infants children or adolescents",
+    "chapter": "Chapter 5"
+  },
+  {
+    "code": "5B52",
+    "category": "Acute malnutrition in infants children or adolescents",
+    "chapter": "Chapter 5"
+  },
+  {
+    "code": "5B53",
+    "category": "Stunting in infants children or adolescents",
+    "chapter": "Chapter 5"
+  },
+  {
+    "code": "5B54",
+    "category": "Underweight in adults",
+    "chapter": "Chapter 5"
+  },
+  {
+    "code": "5B55",
+    "category": "Vitamin A deficiency",
+    "chapter": "Chapter 5"
+  },
+  {
+    "code": "5B55.0",
+    "category": "Vitamin A deficiency with night blindness",
+    "chapter": "Chapter 5"
+  },
+  {
+    "code": "5B55.1",
+    "category": "Vitamin A deficiency with conjunctival xerosis",
+    "chapter": "Chapter 5"
+  },
+  {
+    "code": "5B55.2",
+    "category": "Vitamin A deficiency with conjunctival xerosis or Bitots spots",
+    "chapter": "Chapter 5"
+  },
+  {
+    "code": "5B55.3",
+    "category": "Vitamin A deficiency with corneal xerosis",
+    "chapter": "Chapter 5"
+  },
+  {
+    "code": "5B55.4",
+    "category": "Vitamin A deficiency with corneal ulceration or keratomalacia",
+    "chapter": "Chapter 5"
+  },
+  {
+    "code": "5B55.5",
+    "category": "Vitamin A deficiency with xerophthalmic scars of cornea or blindness",
+    "chapter": "Chapter 5"
+  },
+  {
+    "code": "5B56.0",
+    "category": "Scurvy",
+    "chapter": "Chapter 5"
+  },
+  {
+    "code": "5B57.0",
+    "category": "Vitamin D deficiency rickets",
+    "chapter": "Chapter 5"
+  },
+  {
+    "code": "5B58",
+    "category": "Vitamin E deficiency",
+    "chapter": "Chapter 5"
+  },
+  {
+    "code": "5B59",
+    "category": "Vitamin K deficiency",
+    "chapter": "Chapter 5"
+  },
+  {
+    "code": "5B5A.0",
+    "category": "Beriberi",
+    "chapter": "Chapter 5"
+  },
+  {
+    "code": "5B5B",
+    "category": "Vitamin B2 deficiency",
+    "chapter": "Chapter 5"
+  },
+  {
+    "code": "5B5C.0",
+    "category": "Pellagra",
+    "chapter": "Chapter 5"
+  },
+  {
+    "code": "5B5D",
+    "category": "Vitamin B6 deficiency",
+    "chapter": "Chapter 5"
+  },
+  {
+    "code": "5B5E",
+    "category": "Folate deficiency",
+    "chapter": "Chapter 5"
+  },
+  {
+    "code": "5B5F",
+    "category": "Vitamin B12 deficiency",
+    "chapter": "Chapter 5"
+  },
+  {
+    "code": "5B5K.1",
+    "category": "Calcium deficiency",
+    "chapter": "Chapter 5"
+  },
+  {
+    "code": "5B5K.10",
+    "category": "Tetany due to acute calcium deficiency",
+    "chapter": "Chapter 5"
+  },
+  {
+    "code": "5B5K.3",
+    "category": "Iodine deficiency",
+    "chapter": "Chapter 5"
+  },
+  {
+    "code": "5B7Z",
+    "category": "Unspecified undernutrition",
+    "chapter": "Chapter 5"
+  },
+  {
+    "code": "5B80.0",
+    "category": "Overweight",
+    "chapter": "Chapter 5"
+  },
+  {
+    "code": "5B81",
+    "category": "Obesity",
+    "chapter": "Chapter 5"
+  },
+  {
+    "code": "5B90",
+    "category": "Vitamin excesses",
+    "chapter": "Chapter 5"
+  },
+  {
+    "code": "5B91",
+    "category": "Mineral excesses",
+    "chapter": "Chapter 5"
+  },
+  {
+    "code": "5C61.6",
+    "category": "Lactose intolerance",
+    "chapter": "Chapter 5"
+  },
+  {
+    "code": "5C70.0",
+    "category": "Dehydration",
+    "chapter": "Chapter 5"
+  },
+  {
+    "code": "5C70.1",
+    "category": "Hypovolaemia",
+    "chapter": "Chapter 5"
+  },
+  {
+    "code": "5C71",
+    "category": "Hyperosmolality or hypernatraemia",
+    "chapter": "Chapter 5"
+  },
+  {
+    "code": "5C72",
+    "category": "Hypo-osmolality or hyponatraemia",
+    "chapter": "Chapter 5"
+  },
+  {
+    "code": "5C76",
+    "category": "Hyperkalaemia",
+    "chapter": "Chapter 5"
+  },
+  {
+    "code": "5C77",
+    "category": "Hypokalaemia",
+    "chapter": "Chapter 5"
+  },
+  {
+    "code": "5C80",
+    "category": "Hyperlipoproteinaemia",
+    "chapter": "Chapter 5"
+  },
+  {
+    "code": "5C80.0",
+    "category": "Hypercholesterolaemia",
+    "chapter": "Chapter 5"
+  },
+  {
+    "code": "5C80.1",
+    "category": "Hypertriglyceridaemia",
+    "chapter": "Chapter 5"
+  },
+  {
+    "code": "6A00",
+    "category": "Disorders of intellectual development",
+    "chapter": "Chapter 6"
+  },
+  {
+    "code": "6A01",
+    "category": "Developmental speech or language disorders",
+    "chapter": "Chapter 6"
+  },
+  {
+    "code": "6A02",
+    "category": "Autism spectrum disorder",
+    "chapter": "Chapter 6"
+  },
+  {
+    "code": "6A03",
+    "category": "Developmental learning disorder",
+    "chapter": "Chapter 6"
+  },
+  {
+    "code": "6A05",
+    "category": "Attention deficit hyperactivity disorder",
+    "chapter": "Chapter 6"
+  },
+  {
+    "code": "6A0Y",
+    "category": "Other specified neurodevelopmental disorders",
+    "chapter": "Chapter 6"
+  },
+  {
+    "code": "6A20",
+    "category": "Schizophrenia",
+    "chapter": "Chapter 6"
+  },
+  {
+    "code": "6A21",
+    "category": "Schizoaffective disorder",
+    "chapter": "Chapter 6"
+  },
+  {
+    "code": "6A22",
+    "category": "Schizotypal disorder",
+    "chapter": "Chapter 6"
+  },
+  {
+    "code": "6A23",
+    "category": "Acute and transient psychotic disorder",
+    "chapter": "Chapter 6"
+  },
+  {
+    "code": "6A24",
+    "category": "Delusional disorder",
+    "chapter": "Chapter 6"
+  },
+  {
+    "code": "6A2Y",
+    "category": "Other specified primary psychotic disorder",
+    "chapter": "Chapter 6"
+  },
+  {
+    "code": "6A40",
+    "category": "Catatonia associated with another mental disorder",
+    "chapter": "Chapter 6"
+  },
+  {
+    "code": "6A41",
+    "category": "Catatonia induced by substances or medications",
+    "chapter": "Chapter 6"
+  },
+  {
+    "code": "6A4Z",
+    "category": "Catatonia unspecified",
+    "chapter": "Chapter 6"
+  },
+  {
+    "code": "6A60",
+    "category": "Bipolar type I disorder",
+    "chapter": "Chapter 6"
+  },
+  {
+    "code": "6A61",
+    "category": "Bipolar type II disorder",
+    "chapter": "Chapter 6"
+  },
+  {
+    "code": "6A62",
+    "category": "Cyclothymic disorder",
+    "chapter": "Chapter 6"
+  },
+  {
+    "code": "6A6Z",
+    "category": "Bipolar or related disorders unspecified",
+    "chapter": "Chapter 6"
+  },
+  {
+    "code": "6A71",
+    "category": "Recurrent depressive disorder",
+    "chapter": "Chapter 6"
+  },
+  {
+    "code": "6A72",
+    "category": "Dysthymic disorder",
+    "chapter": "Chapter 6"
+  },
+  {
+    "code": "6A73",
+    "category": "Mixed depressive and anxiety disorder",
+    "chapter": "Chapter 6"
+  },
+  {
+    "code": "6A7Z",
+    "category": "Depressive disorders unspecified",
+    "chapter": "Chapter 6"
+  },
+  {
+    "code": "6A8Z",
+    "category": "Mood disorders unspecified",
+    "chapter": "Chapter 6"
+  },
+  {
+    "code": "6B00",
+    "category": "Generalised anxiety disorder",
+    "chapter": "Chapter 6"
+  },
+  {
+    "code": "6B01",
+    "category": "Panic disorder",
+    "chapter": "Chapter 6"
+  },
+  {
+    "code": "6B02",
+    "category": "Agoraphobia",
+    "chapter": "Chapter 6"
+  },
+  {
+    "code": "6B03",
+    "category": "Specific phobia",
+    "chapter": "Chapter 6"
+  },
+  {
+    "code": "6B04",
+    "category": "Social anxiety disorder",
+    "chapter": "Chapter 6"
+  },
+  {
+    "code": "6B05",
+    "category": "Separation anxiety disorder",
+    "chapter": "Chapter 6"
+  },
+  {
+    "code": "6B06",
+    "category": "Selective mutism",
+    "chapter": "Chapter 6"
+  },
+  {
+    "code": "6B0Z",
+    "category": "Anxiety or fear-related disorders unspecified",
+    "chapter": "Chapter 6"
+  },
+  {
+    "code": "6B20",
+    "category": "Obsessive-compulsive disorder",
+    "chapter": "Chapter 6"
+  },
+  {
+    "code": "6B23",
+    "category": "Hypochondriasis",
+    "chapter": "Chapter 6"
+  },
+  {
+    "code": "6B40",
+    "category": "Post traumatic stress disorder",
+    "chapter": "Chapter 6"
+  },
+  {
+    "code": "6B42",
+    "category": "Prolonged grief disorder",
+    "chapter": "Chapter 6"
+  },
+  {
+    "code": "6B43",
+    "category": "Adjustment disorder",
+    "chapter": "Chapter 6"
+  },
+  {
+    "code": "6B4Z",
+    "category": "Disorders specifically associated with stress unspecified",
+    "chapter": "Chapter 6"
+  },
+  {
+    "code": "6B60",
+    "category": "Dissociative neurological symptom disorder",
+    "chapter": "Chapter 6"
+  },
+  {
+    "code": "6B61",
+    "category": "Dissociative amnesia",
+    "chapter": "Chapter 6"
+  },
+  {
+    "code": "6B64",
+    "category": "Dissociative identity disorder",
+    "chapter": "Chapter 6"
+  },
+  {
+    "code": "6B66",
+    "category": "Depersonalization-derealization disorder",
+    "chapter": "Chapter 6"
+  },
+  {
+    "code": "6B80",
+    "category": "Anorexia Nervosa",
+    "chapter": "Chapter 6"
+  },
+  {
+    "code": "6B81",
+    "category": "Bulimia Nervosa",
+    "chapter": "Chapter 6"
+  },
+  {
+    "code": "6B84",
+    "category": "Pica",
+    "chapter": "Chapter 6"
+  },
+  {
+    "code": "6B8Z",
+    "category": "Feeding or eating disorders unspecified",
+    "chapter": "Chapter 6"
+  },
+  {
+    "code": "6C00",
+    "category": "Enuresis",
+    "chapter": "Chapter 6"
+  },
+  {
+    "code": "6C40",
+    "category": "Disorders due to use of alcohol",
+    "chapter": "Chapter 6"
+  },
+  {
+    "code": "6C41",
+    "category": "Disorders due to use of cannabis",
+    "chapter": "Chapter 6"
+  },
+  {
+    "code": "6C43",
+    "category": "Disorders due to use of opioids",
+    "chapter": "Chapter 6"
+  },
+  {
+    "code": "6C45",
+    "category": "Disorders due to use of cocaine",
+    "chapter": "Chapter 6"
+  },
+  {
+    "code": "6C46",
+    "category": "Disorders due to use of stimulants including amphetamines methamphetamine or methcathinone",
+    "chapter": "Chapter 6"
+  },
+  {
+    "code": "6C4A",
+    "category": "Disorders due to use of nicotine",
+    "chapter": "Chapter 6"
+  },
+  {
+    "code": "6C4Z",
+    "category": "Disorders due to substance use unspecified",
+    "chapter": "Chapter 6"
+  },
+  {
+    "code": "6C73",
+    "category": "Intermittent explosive disorder",
+    "chapter": "Chapter 6"
+  },
+  {
+    "code": "6C90",
+    "category": "Oppositional defiant disorder",
+    "chapter": "Chapter 6"
+  },
+  {
+    "code": "6C91",
+    "category": "Conduct-dissocial disorder",
+    "chapter": "Chapter 6"
+  },
+  {
+    "code": "6D10",
+    "category": "Personality disorder",
+    "chapter": "Chapter 6"
+  },
+  {
+    "code": "6D30",
+    "category": "Exhibitionistic disorder",
+    "chapter": "Chapter 6"
+  },
+  {
+    "code": "6D5Z",
+    "category": "Factitious disorders unspecified",
+    "chapter": "Chapter 6"
+  },
+  {
+    "code": "6D70",
+    "category": "Delirium",
+    "chapter": "Chapter 6"
+  },
+  {
+    "code": "6D71",
+    "category": "Mild neurocognitive disorder",
+    "chapter": "Chapter 6"
+  },
+  {
+    "code": "6D72",
+    "category": "Amnestic disorder",
+    "chapter": "Chapter 6"
+  },
+  {
+    "code": "6D80",
+    "category": "Dementia due to Alzheimer disease",
+    "chapter": "Chapter 6"
+  },
+  {
+    "code": "6D84",
+    "category": "Dementia due to psychoactive substances including medications",
+    "chapter": "Chapter 6"
+  },
+  {
+    "code": "6D85",
+    "category": "Dementia due to diseases classified elsewhere",
+    "chapter": "Chapter 6"
+  },
+  {
+    "code": "6D85.3",
+    "category": "Dementia due to human immunodeficiency virus",
+    "chapter": "Chapter 6"
+  },
+  {
+    "code": "6D85.7",
+    "category": "Dementia due to injury to the head",
+    "chapter": "Chapter 6"
+  },
+  {
+    "code": "6D8Z",
+    "category": "Dementia unknown or unspecified cause",
+    "chapter": "Chapter 6"
+  },
+  {
+    "code": "6E0Y",
+    "category": "Other specified neurocognitive disorders",
+    "chapter": "Chapter 6"
+  },
+  {
+    "code": "6E20",
+    "category": "Mental or behavioural Disorders associated with pregnancy childbirth or the puerperium without psychotic symptoms",
+    "chapter": "Chapter 6"
+  },
+  {
+    "code": "6E21",
+    "category": "Mental or behavioural Disorders associated with pregnancy childbirth or the puerperium with psychotic symptoms",
+    "chapter": "Chapter 6"
+  },
+  {
+    "code": "6E2Z",
+    "category": "Mental or behavioural disorders associated with pregnancy childbirth or the puerperium unspecified",
+    "chapter": "Chapter 6"
+  },
+  {
+    "code": "7A00",
+    "category": "Chronic insomnia",
+    "chapter": "Chapter 7"
+  },
+  {
+    "code": "7A0Z",
+    "category": "Insomnia disorders unspecified",
+    "chapter": "Chapter 7"
+  },
+  {
+    "code": "7A20",
+    "category": "Narcolepsy",
+    "chapter": "Chapter 7"
+  },
+  {
+    "code": "7A40",
+    "category": "Central sleep apnoeas",
+    "chapter": "Chapter 7"
+  },
+  {
+    "code": "7A41",
+    "category": "Obstructive sleep apnoea",
+    "chapter": "Chapter 7"
+  },
+  {
+    "code": "7A64",
+    "category": "Circadian rhythm sleep-wake disorder shift work type",
+    "chapter": "Chapter 7"
+  },
+  {
+    "code": "7A80",
+    "category": "Restless legs syndrome",
+    "chapter": "Chapter 7"
+  },
+  {
+    "code": "7B00.1",
+    "category": "Sleepwalking disorder",
+    "chapter": "Chapter 7"
+  },
+  {
+    "code": "7B00.2",
+    "category": "Sleep terrors",
+    "chapter": "Chapter 7"
+  },
+  {
+    "code": "7B01.2",
+    "category": "Nightmare disorder",
+    "chapter": "Chapter 7"
+  },
+  {
+    "code": "8A00.0",
+    "category": "Parkinson disease",
+    "chapter": "Chapter 8"
+  },
+  {
+    "code": "8A02",
+    "category": "Dystonic disorders",
+    "chapter": "Chapter 8"
+  },
+  {
+    "code": "8A03",
+    "category": "Ataxic disorders",
+    "chapter": "Chapter 8"
+  },
+  {
+    "code": "8A05",
+    "category": "Tic disorders",
+    "chapter": "Chapter 8"
+  },
+  {
+    "code": "8A0Y",
+    "category": "Other specified movement disorders",
+    "chapter": "Chapter 8"
+  },
+  {
+    "code": "8A20",
+    "category": "Alzheimer disease",
+    "chapter": "Chapter 8"
+  },
+  {
+    "code": "8A21",
+    "category": "Progressive focal atrophies",
+    "chapter": "Chapter 8"
+  },
+  {
+    "code": "8A2Y",
+    "category": "Other specified disorders with neurocognitive impairment as a major feature",
+    "chapter": "Chapter 8"
+  },
+  {
+    "code": "8A40",
+    "category": "Multiple sclerosis",
+    "chapter": "Chapter 8"
+  },
+  {
+    "code": "8A41.0",
+    "category": "Transverse myelitis",
+    "chapter": "Chapter 8"
+  },
+  {
+    "code": "8A62.0",
+    "category": "Infantile spasms",
+    "chapter": "Chapter 8"
+  },
+  {
+    "code": "8A63.0",
+    "category": "Febrile seizures",
+    "chapter": "Chapter 8"
+  },
+  {
+    "code": "8A66",
+    "category": "Status epilepticus",
+    "chapter": "Chapter 8"
+  },
+  {
+    "code": "8A6Y",
+    "category": "Other specified epilepsy or seizures",
+    "chapter": "Chapter 8"
+  },
+  {
+    "code": "8A80",
+    "category": "Migraine",
+    "chapter": "Chapter 8"
+  },
+  {
+    "code": "8A81",
+    "category": "Tension-type headache",
+    "chapter": "Chapter 8"
+  },
+  {
+    "code": "8B00",
+    "category": "Intracerebral haemorrhage",
+    "chapter": "Chapter 8"
+  },
+  {
+    "code": "8B10",
+    "category": "Transient ischaemic attack",
+    "chapter": "Chapter 8"
+  },
+  {
+    "code": "8B11",
+    "category": "Cerebral ischaemic stroke",
+    "chapter": "Chapter 8"
+  },
+  {
+    "code": "8B20",
+    "category": "Stroke not known if ischaemic or haemorrhagic",
+    "chapter": "Chapter 8"
+  },
+  {
+    "code": "8B24",
+    "category": "Hypoxic-ischaemic encephalopathy",
+    "chapter": "Chapter 8"
+  },
+  {
+    "code": "8B42",
+    "category": "Myelopathy",
+    "chapter": "Chapter 8"
+  },
+  {
+    "code": "8B60",
+    "category": "Motor neuron disease",
+    "chapter": "Chapter 8"
+  },
+  {
+    "code": "8B88.0",
+    "category": "Bell palsy",
+    "chapter": "Chapter 8"
+  },
+  {
+    "code": "8B91",
+    "category": "Brachial plexus disorders",
+    "chapter": "Chapter 8"
+  },
+  {
+    "code": "8B94",
+    "category": "Diabetic radiculoplexoneuropathy",
+    "chapter": "Chapter 8"
+  },
+  {
+    "code": "8C03.0",
+    "category": "Diabetic polyneuropathy",
+    "chapter": "Chapter 8"
+  },
+  {
+    "code": "8C0Z",
+    "category": "Polyneuropathy unspecified",
+    "chapter": "Chapter 8"
+  },
+  {
+    "code": "8C10",
+    "category": "Mononeuropathies of upper limb",
+    "chapter": "Chapter 8"
+  },
+  {
+    "code": "8C10.0",
+    "category": "Carpal tunnel syndrome",
+    "chapter": "Chapter 8"
+  },
+  {
+    "code": "8C11",
+    "category": "Mononeuropathies of lower limb",
+    "chapter": "Chapter 8"
+  },
+  {
+    "code": "8C12.0",
+    "category": "Intercostal neuropathy",
+    "chapter": "Chapter 8"
+  },
+  {
+    "code": "8C4Y",
+    "category": "Other specified disorders of nerve root plexus or peripheral nerves",
+    "chapter": "Chapter 8"
+  },
+  {
+    "code": "8C71",
+    "category": "Myotonic disorders",
+    "chapter": "Chapter 8"
+  },
+  {
+    "code": "8D20",
+    "category": "Spastic cerebral palsy",
+    "chapter": "Chapter 8"
+  },
+  {
+    "code": "8D64.Z",
+    "category": "Hydrocephalus unspecified",
+    "chapter": "Chapter 8"
+  },
+  {
+    "code": "8E46",
+    "category": "Reye syndrome",
+    "chapter": "Chapter 8"
+  },
+  {
+    "code": "8E7Y",
+    "category": "Other specified diseases of the nervous system",
+    "chapter": "Chapter 8"
+  },
+  {
+    "code": "9A01.3",
+    "category": "Infectious blepharitis",
+    "chapter": "Chapter 9"
+  },
+  {
+    "code": "9A02.0",
+    "category": "Chalazion",
+    "chapter": "Chapter 9"
+  },
+  {
+    "code": "9A03.4",
+    "category": "Lagophthalmos",
+    "chapter": "Chapter 9"
+  },
+  {
+    "code": "9A04.0",
+    "category": "Trichiasis without entropion",
+    "chapter": "Chapter 9"
+  },
+  {
+    "code": "9A11.5",
+    "category": "Nasolacrimal canalicular stenosis",
+    "chapter": "Chapter 9"
+  },
+  {
+    "code": "9A11.8",
+    "category": "Nasolacrimal duct obstruction",
+    "chapter": "Chapter 9"
+  },
+  {
+    "code": "9A21.0",
+    "category": "Orbital cellulitis",
+    "chapter": "Chapter 9"
+  },
+  {
+    "code": "9A4Y",
+    "category": "Other specified disorders of the ocular adnexa or orbit",
+    "chapter": "Chapter 9"
+  },
+  {
+    "code": "9A60",
+    "category": "Conjunctivitis",
+    "chapter": "Chapter 9"
+  },
+  {
+    "code": "9A60.02",
+    "category": "Allergic conjunctivitis",
+    "chapter": "Chapter 9"
+  },
+  {
+    "code": "9A61.1",
+    "category": "Pterygium",
+    "chapter": "Chapter 9"
+  },
+  {
+    "code": "9A61.5",
+    "category": "Conjunctival or subconjunctival haemorrhage",
+    "chapter": "Chapter 9"
+  },
+  {
+    "code": "9A71",
+    "category": "Infectious keratitis",
+    "chapter": "Chapter 9"
+  },
+  {
+    "code": "9A76",
+    "category": "Corneal ulcer",
+    "chapter": "Chapter 9"
+  },
+  {
+    "code": "9A77",
+    "category": "Corneal scars or opacities",
+    "chapter": "Chapter 9"
+  },
+  {
+    "code": "9A80",
+    "category": "Hyphaema",
+    "chapter": "Chapter 9"
+  },
+  {
+    "code": "9B10",
+    "category": "Cataract",
+    "chapter": "Chapter 9"
+  },
+  {
+    "code": "9B10.02",
+    "category": "Mature age-related cataract",
+    "chapter": "Chapter 9"
+  },
+  {
+    "code": "9B10.20",
+    "category": "Traumatic cataract",
+    "chapter": "Chapter 9"
+  },
+  {
+    "code": "9B10.21",
+    "category": "Diabetic cataract",
+    "chapter": "Chapter 9"
+  },
+  {
+    "code": "9B51",
+    "category": "Scleritis",
+    "chapter": "Chapter 9"
+  },
+  {
+    "code": "9B71.0Z",
+    "category": "Diabetic retinopathy unspecified",
+    "chapter": "Chapter 9"
+  },
+  {
+    "code": "9B71.1",
+    "category": "Hypertensive retinopathy",
+    "chapter": "Chapter 9"
+  },
+  {
+    "code": "9B73.0",
+    "category": "Retinal detachment with retinal break",
+    "chapter": "Chapter 9"
+  },
+  {
+    "code": "9B75.0",
+    "category": "Age related macular degeneration",
+    "chapter": "Chapter 9"
+  },
+  {
+    "code": "9B78.12",
+    "category": "Retinal vasculitis",
+    "chapter": "Chapter 9"
+  },
+  {
+    "code": "9C40.A0",
+    "category": "Papilloedema",
+    "chapter": "Chapter 9"
+  },
+  {
+    "code": "9C60",
+    "category": "Glaucoma suspect",
+    "chapter": "Chapter 9"
+  },
+  {
+    "code": "9C61",
+    "category": "Glaucoma",
+    "chapter": "Chapter 9"
+  },
+  {
+    "code": "9C84",
+    "category": "Nystagmus",
+    "chapter": "Chapter 9"
+  },
+  {
+    "code": "9D00",
+    "category": "Disorders of refraction",
+    "chapter": "Chapter 9"
+  },
+  {
+    "code": "9D00.0",
+    "category": "Myopia",
+    "chapter": "Chapter 9"
+  },
+  {
+    "code": "9D00.1",
+    "category": "Hypermetropia",
+    "chapter": "Chapter 9"
+  },
+  {
+    "code": "9D00.2",
+    "category": "Astigmatism",
+    "chapter": "Chapter 9"
+  },
+  {
+    "code": "9D00.3",
+    "category": "Presbyopia",
+    "chapter": "Chapter 9"
+  },
+  {
+    "code": "9D00.4",
+    "category": "Anisometropia",
+    "chapter": "Chapter 9"
+  },
+  {
+    "code": "9D90.4",
+    "category": "Blindness binocular",
+    "chapter": "Chapter 9"
+  },
+  {
+    "code": "9D90.5",
+    "category": "Blindness monocular",
+    "chapter": "Chapter 9"
+  },
+  {
+    "code": "9D91",
+    "category": "Near vision deficits",
+    "chapter": "Chapter 9"
+  },
+  {
+    "code": "9E1Y",
+    "category": "Other specified diseases of the visual system",
+    "chapter": "Chapter 9"
+  },
+  {
+    "code": "AA00",
+    "category": "Abscess of external ear",
+    "chapter": "Chapter 10"
+  },
+  {
+    "code": "AA01",
+    "category": "Cellulitis of external ear",
+    "chapter": "Chapter 10"
+  },
+  {
+    "code": "AA02",
+    "category": "Malignant otitis externa",
+    "chapter": "Chapter 10"
+  },
+  {
+    "code": "AA03",
+    "category": "Otomycosis",
+    "chapter": "Chapter 10"
+  },
+  {
+    "code": "AA04",
+    "category": "Perichondritis of external ear",
+    "chapter": "Chapter 10"
+  },
+  {
+    "code": "AA10",
+    "category": "Seborrhoeic otitis externa",
+    "chapter": "Chapter 10"
+  },
+  {
+    "code": "AA13",
+    "category": "Chronic otitis externa",
+    "chapter": "Chapter 10"
+  },
+  {
+    "code": "AA42",
+    "category": "Impacted cerumen",
+    "chapter": "Chapter 10"
+  },
+  {
+    "code": "AA90",
+    "category": "Acute suppurative otitis media",
+    "chapter": "Chapter 10"
+  },
+  {
+    "code": "AA91",
+    "category": "Chronic suppurative otitis media",
+    "chapter": "Chapter 10"
+  },
+  {
+    "code": "AB00",
+    "category": "Acute otitis media",
+    "chapter": "Chapter 10"
+  },
+  {
+    "code": "AB01",
+    "category": "Chronic otitis media",
+    "chapter": "Chapter 10"
+  },
+  {
+    "code": "AB0Z",
+    "category": "Otitis media unspecified",
+    "chapter": "Chapter 10"
+  },
+  {
+    "code": "AB11",
+    "category": "Mastoiditis or related conditions",
+    "chapter": "Chapter 10"
+  },
+  {
+    "code": "AB11.0",
+    "category": "Acute mastoiditis",
+    "chapter": "Chapter 10"
+  },
+  {
+    "code": "AB11.1",
+    "category": "Chronic mastoiditis",
+    "chapter": "Chapter 10"
+  },
+  {
+    "code": "AB12",
+    "category": "Cholesteatoma of middle ear",
+    "chapter": "Chapter 10"
+  },
+  {
+    "code": "AB13",
+    "category": "Perforation of tympanic membrane",
+    "chapter": "Chapter 10"
+  },
+  {
+    "code": "AB14",
+    "category": "Acute myringitis",
+    "chapter": "Chapter 10"
+  },
+  {
+    "code": "AB15",
+    "category": "Chronic myringitis",
+    "chapter": "Chapter 10"
+  },
+  {
+    "code": "AB1Y",
+    "category": "Other specified diseases of middle ear or mastoid",
+    "chapter": "Chapter 10"
+  },
+  {
+    "code": "AB30.0",
+    "category": "Vestibular neuritis",
+    "chapter": "Chapter 10"
+  },
+  {
+    "code": "AB31.0",
+    "category": "Meniere disease",
+    "chapter": "Chapter 10"
+  },
+  {
+    "code": "AB33",
+    "category": "Otosclerosis",
+    "chapter": "Chapter 10"
+  },
+  {
+    "code": "AB3Y",
+    "category": "Other specified diseases of inner ear",
+    "chapter": "Chapter 10"
+  },
+  {
+    "code": "AB51.Z",
+    "category": "Acquired hearing impairment unspecified",
+    "chapter": "Chapter 10"
+  },
+  {
+    "code": "AB53",
+    "category": "Ototoxic hearing loss",
+    "chapter": "Chapter 10"
+  },
+  {
+    "code": "AB55",
+    "category": "Sudden idiopathic hearing loss",
+    "chapter": "Chapter 10"
+  },
+  {
+    "code": "AB5Z",
+    "category": "Disorders with hearing impairment unspecified",
+    "chapter": "Chapter 10"
+  },
+  {
+    "code": "AB70.2",
+    "category": "Otalgia",
+    "chapter": "Chapter 10"
+  },
+  {
+    "code": "AC0Z",
+    "category": "Diseases of the ear or mastoid process unspecified",
+    "chapter": "Chapter 10"
+  },
+  {
+    "code": "BA00",
+    "category": "Essential hypertension",
+    "chapter": "Chapter 11"
+  },
+  {
+    "code": "BA03",
+    "category": "Hypertensive crisis",
+    "chapter": "Chapter 11"
+  },
+  {
+    "code": "BA04",
+    "category": "Secondary hypertension",
+    "chapter": "Chapter 11"
+  },
+  {
+    "code": "BA20",
+    "category": "Idiopathic hypotension",
+    "chapter": "Chapter 11"
+  },
+  {
+    "code": "BA21",
+    "category": "Orthostatic hypotension",
+    "chapter": "Chapter 11"
+  },
+  {
+    "code": "BA2Z",
+    "category": "Hypotension unspecified",
+    "chapter": "Chapter 11"
+  },
+  {
+    "code": "BA40",
+    "category": "Angina pectoris",
+    "chapter": "Chapter 11"
+  },
+  {
+    "code": "BA41.Z",
+    "category": "Acute myocardial infarction unspecified",
+    "chapter": "Chapter 11"
+  },
+  {
+    "code": "BA4Z",
+    "category": "Acute ischaemic heart disease unspecified",
+    "chapter": "Chapter 11"
+  },
+  {
+    "code": "BA50",
+    "category": "Old myocardial infarction",
+    "chapter": "Chapter 11"
+  },
+  {
+    "code": "BA6Z",
+    "category": "Ischaemic heart diseases unspecified",
+    "chapter": "Chapter 11"
+  },
+  {
+    "code": "BA8Y",
+    "category": "Other specified diseases of coronary artery",
+    "chapter": "Chapter 11"
+  },
+  {
+    "code": "BB00.Z",
+    "category": "Pulmonary thromboembolism unspecified",
+    "chapter": "Chapter 11"
+  },
+  {
+    "code": "BB01",
+    "category": "Pulmonary hypertension",
+    "chapter": "Chapter 11"
+  },
+  {
+    "code": "BB20",
+    "category": "Acute pericarditis",
+    "chapter": "Chapter 11"
+  },
+  {
+    "code": "BB23",
+    "category": "Cardiac tamponade",
+    "chapter": "Chapter 11"
+  },
+  {
+    "code": "BB24",
+    "category": "Haemopericardium",
+    "chapter": "Chapter 11"
+  },
+  {
+    "code": "BB25",
+    "category": "Pericardial effusion",
+    "chapter": "Chapter 11"
+  },
+  {
+    "code": "BB2Z",
+    "category": "Pericarditis unspecified",
+    "chapter": "Chapter 11"
+  },
+  {
+    "code": "BB40",
+    "category": "Acute or subacute infectious endocarditis",
+    "chapter": "Chapter 11"
+  },
+  {
+    "code": "BB60",
+    "category": "Mitral valve stenosis",
+    "chapter": "Chapter 11"
+  },
+  {
+    "code": "BB61",
+    "category": "Mitral valve insufficiency",
+    "chapter": "Chapter 11"
+  },
+  {
+    "code": "BB62",
+    "category": "Mitral valve prolapse",
+    "chapter": "Chapter 11"
+  },
+  {
+    "code": "BB6Z",
+    "category": "Mitral valve disease unspecified",
+    "chapter": "Chapter 11"
+  },
+  {
+    "code": "BB70",
+    "category": "Aortic valve stenosis",
+    "chapter": "Chapter 11"
+  },
+  {
+    "code": "BB71",
+    "category": "Aortic valve insufficiency",
+    "chapter": "Chapter 11"
+  },
+  {
+    "code": "BB7Z",
+    "category": "Aortic valve disease unspecified",
+    "chapter": "Chapter 11"
+  },
+  {
+    "code": "BB8Z",
+    "category": "Tricuspid valve disease unspecified",
+    "chapter": "Chapter 11"
+  },
+  {
+    "code": "BB9Z",
+    "category": "Pulmonary valve disease unspecified",
+    "chapter": "Chapter 11"
+  },
+  {
+    "code": "BC20.1",
+    "category": "Rheumatic heart disease unspecified",
+    "chapter": "Chapter 11"
+  },
+  {
+    "code": "BC42.Z",
+    "category": "Myocarditis unspecified",
+    "chapter": "Chapter 11"
+  },
+  {
+    "code": "BC43.7",
+    "category": "Diabetic cardiomyopathy",
+    "chapter": "Chapter 11"
+  },
+  {
+    "code": "BC45",
+    "category": "Cardiomegaly",
+    "chapter": "Chapter 11"
+  },
+  {
+    "code": "BC4Y",
+    "category": "Other specified diseases of the myocardium or cardiac chambers",
+    "chapter": "Chapter 11"
+  },
+  {
+    "code": "BC81.3",
+    "category": "Atrial fibrillation",
+    "chapter": "Chapter 11"
+  },
+  {
+    "code": "BC9Y",
+    "category": "Other specified cardiac arrhythmia",
+    "chapter": "Chapter 11"
+  },
+  {
+    "code": "BD10",
+    "category": "Congestive heart failure",
+    "chapter": "Chapter 11"
+  },
+  {
+    "code": "BD1Z",
+    "category": "Heart failure unspecified",
+    "chapter": "Chapter 11"
+  },
+  {
+    "code": "BD4Z",
+    "category": "Chronic arterial occlusive disease unspecified",
+    "chapter": "Chapter 11"
+  },
+  {
+    "code": "BD50",
+    "category": "Aortic aneurysm or dissection",
+    "chapter": "Chapter 11"
+  },
+  {
+    "code": "BD54",
+    "category": "Diabetic foot ulcer",
+    "chapter": "Chapter 11"
+  },
+  {
+    "code": "BD70",
+    "category": "Superficial thrombophlebitis",
+    "chapter": "Chapter 11"
+  },
+  {
+    "code": "BD71",
+    "category": "Deep vein thrombosis",
+    "chapter": "Chapter 11"
+  },
+  {
+    "code": "BD72",
+    "category": "Venous thromboembolism",
+    "chapter": "Chapter 11"
+  },
+  {
+    "code": "BD73.20",
+    "category": "Obstruction of peripheral vein",
+    "chapter": "Chapter 11"
+  },
+  {
+    "code": "BD74.1",
+    "category": "Lower limb varicose veins",
+    "chapter": "Chapter 11"
+  },
+  {
+    "code": "BD74.30",
+    "category": "Primary venous leg ulcer",
+    "chapter": "Chapter 11"
+  },
+  {
+    "code": "BD90",
+    "category": "Lymphadenitis",
+    "chapter": "Chapter 11"
+  },
+  {
+    "code": "BD90.0",
+    "category": "Acute lymphadenitis",
+    "chapter": "Chapter 11"
+  },
+  {
+    "code": "BD90.2",
+    "category": "Chronic lymphadenitis",
+    "chapter": "Chapter 11"
+  },
+  {
+    "code": "BD93",
+    "category": "Lymphoedema",
+    "chapter": "Chapter 11"
+  },
+  {
+    "code": "BD93.0",
+    "category": "Primary lymphoedema",
+    "chapter": "Chapter 11"
+  },
+  {
+    "code": "BD93.1",
+    "category": "Secondary lymphoedema",
+    "chapter": "Chapter 11"
+  },
+  {
+    "code": "BD9Y",
+    "category": "Other specified disorders of lymphatic vessels or lymph nodes",
+    "chapter": "Chapter 11"
+  },
+  {
+    "code": "BE1B",
+    "category": "Lymphoedema due to surgery or radiotherapy",
+    "chapter": "Chapter 11"
+  },
+  {
+    "code": "BE2Y",
+    "category": "Other specified diseases of the circulatory system",
+    "chapter": "Chapter 11"
+  },
+  {
+    "code": "CA00",
+    "category": "Acute nasopharyngitis",
+    "chapter": "Chapter 12"
+  },
+  {
+    "code": "CA01",
+    "category": "Acute sinusitis",
+    "chapter": "Chapter 12"
+  },
+  {
+    "code": "CA02.1",
+    "category": "Acute viral pharyngitis",
+    "chapter": "Chapter 12"
+  },
+  {
+    "code": "CA02.Z",
+    "category": "Acute pharyngitis unspecified",
+    "chapter": "Chapter 12"
+  },
+  {
+    "code": "CA03.Z",
+    "category": "Acute tonsillitis unspecified",
+    "chapter": "Chapter 12"
+  },
+  {
+    "code": "CA04",
+    "category": "Acute laryngopharyngitis",
+    "chapter": "Chapter 12"
+  },
+  {
+    "code": "CA06",
+    "category": "Acute obstructive laryngitis or epiglottitis",
+    "chapter": "Chapter 12"
+  },
+  {
+    "code": "CA06.1",
+    "category": "Acute epiglottitis",
+    "chapter": "Chapter 12"
+  },
+  {
+    "code": "CA08.0",
+    "category": "Allergic rhinitis",
+    "chapter": "Chapter 12"
+  },
+  {
+    "code": "CA09.0",
+    "category": "Chronic rhinitis",
+    "chapter": "Chapter 12"
+  },
+  {
+    "code": "CA09.1",
+    "category": "Chronic nasopharyngitis",
+    "chapter": "Chapter 12"
+  },
+  {
+    "code": "CA09.2",
+    "category": "Chronic pharyngitis",
+    "chapter": "Chapter 12"
+  },
+  {
+    "code": "CA0A",
+    "category": "Chronic rhinosinusitis",
+    "chapter": "Chapter 12"
+  },
+  {
+    "code": "CA0C",
+    "category": "Cyst or mucocele of nose or nasal sinus",
+    "chapter": "Chapter 12"
+  },
+  {
+    "code": "CA0D",
+    "category": "Deviated nasal septum",
+    "chapter": "Chapter 12"
+  },
+  {
+    "code": "CA0E",
+    "category": "Hypertrophy of nasal turbinates",
+    "chapter": "Chapter 12"
+  },
+  {
+    "code": "CA0F.0",
+    "category": "Hypertrophy of tonsils",
+    "chapter": "Chapter 12"
+  },
+  {
+    "code": "CA0G",
+    "category": "Chronic laryngitis or laryngotracheitis",
+    "chapter": "Chapter 12"
+  },
+  {
+    "code": "CA0H.3",
+    "category": "Oedema of larynx",
+    "chapter": "Chapter 12"
+  },
+  {
+    "code": "CA0H.4",
+    "category": "Laryngeal spasm",
+    "chapter": "Chapter 12"
+  },
+  {
+    "code": "CA0J",
+    "category": "Nasal polyp",
+    "chapter": "Chapter 12"
+  },
+  {
+    "code": "CA0K.0",
+    "category": "Retropharyngeal or parapharyngeal abscess",
+    "chapter": "Chapter 12"
+  },
+  {
+    "code": "CA0K.1",
+    "category": "Peritonsillar abscess",
+    "chapter": "Chapter 12"
+  },
+  {
+    "code": "CA20.1",
+    "category": "Chronic bronchitis",
+    "chapter": "Chapter 12"
+  },
+  {
+    "code": "CA21",
+    "category": "Emphysema",
+    "chapter": "Chapter 12"
+  },
+  {
+    "code": "CA22",
+    "category": "Chronic obstructive pulmonary disease",
+    "chapter": "Chapter 12"
+  },
+  {
+    "code": "CA23",
+    "category": "Asthma",
+    "chapter": "Chapter 12"
+  },
+  {
+    "code": "CA23.30",
+    "category": "Unspecified asthma with exacerbation",
+    "chapter": "Chapter 12"
+  },
+  {
+    "code": "CA23.31",
+    "category": "Unspecified asthma with status asthmaticus",
+    "chapter": "Chapter 12"
+  },
+  {
+    "code": "CA24",
+    "category": "Bronchiectasis",
+    "chapter": "Chapter 12"
+  },
+  {
+    "code": "CA25",
+    "category": "Cystic fibrosis",
+    "chapter": "Chapter 12"
+  },
+  {
+    "code": "CA26",
+    "category": "Chronic bronchiolitis",
+    "chapter": "Chapter 12"
+  },
+  {
+    "code": "CA27",
+    "category": "Tracheobronchitis",
+    "chapter": "Chapter 12"
+  },
+  {
+    "code": "CA40",
+    "category": "Pneumonia",
+    "chapter": "Chapter 12"
+  },
+  {
+    "code": "CA40.0",
+    "category": "Bacterial pneumonia",
+    "chapter": "Chapter 12"
+  },
+  {
+    "code": "CA40.1",
+    "category": "Viral pneumonia",
+    "chapter": "Chapter 12"
+  },
+  {
+    "code": "CA41",
+    "category": "Acute bronchiolitis",
+    "chapter": "Chapter 12"
+  },
+  {
+    "code": "CA42",
+    "category": "Acute bronchitis",
+    "chapter": "Chapter 12"
+  },
+  {
+    "code": "CA43",
+    "category": "Abscess of lung or mediastinum",
+    "chapter": "Chapter 12"
+  },
+  {
+    "code": "CA44",
+    "category": "Pyothorax",
+    "chapter": "Chapter 12"
+  },
+  {
+    "code": "CA4Z",
+    "category": "Lung infections unspecified",
+    "chapter": "Chapter 12"
+  },
+  {
+    "code": "CA60",
+    "category": "Pneumoconiosis",
+    "chapter": "Chapter 12"
+  },
+  {
+    "code": "CA7Z",
+    "category": "Pneumonitis unspecified",
+    "chapter": "Chapter 12"
+  },
+  {
+    "code": "CA82",
+    "category": "Respiratory conditions due to other external agents",
+    "chapter": "Chapter 12"
+  },
+  {
+    "code": "CB00",
+    "category": "Acute respiratory distress syndrome",
+    "chapter": "Chapter 12"
+  },
+  {
+    "code": "CB01",
+    "category": "Pulmonary oedema",
+    "chapter": "Chapter 12"
+  },
+  {
+    "code": "CB02",
+    "category": "Pulmonary eosinophilia",
+    "chapter": "Chapter 12"
+  },
+  {
+    "code": "CB21",
+    "category": "Pneumothorax",
+    "chapter": "Chapter 12"
+  },
+  {
+    "code": "CB22",
+    "category": "Diseases of mediastinum not elsewhere classified",
+    "chapter": "Chapter 12"
+  },
+  {
+    "code": "CB24",
+    "category": "Chylous effusion",
+    "chapter": "Chapter 12"
+  },
+  {
+    "code": "CB25",
+    "category": "Fibrothorax",
+    "chapter": "Chapter 12"
+  },
+  {
+    "code": "CB26",
+    "category": "Haemothorax",
+    "chapter": "Chapter 12"
+  },
+  {
+    "code": "CB40.Y",
+    "category": "Other specified diseases of the respiratory system",
+    "chapter": "Chapter 12"
+  },
+  {
+    "code": "CB41.0",
+    "category": "Acute respiratory failure",
+    "chapter": "Chapter 12"
+  },
+  {
+    "code": "CB41.1",
+    "category": "Chronic respiratory failure",
+    "chapter": "Chapter 12"
+  },
+  {
+    "code": "DA00.0",
+    "category": "Cheilitis",
+    "chapter": "Chapter 13"
+  },
+  {
+    "code": "DA01.10",
+    "category": "Oral aphthae or aphtha-like ulceration",
+    "chapter": "Chapter 13"
+  },
+  {
+    "code": "DA01.15",
+    "category": "Mouth ulcers",
+    "chapter": "Chapter 13"
+  },
+  {
+    "code": "DA01.30",
+    "category": "Cellulitis or abscess of soft tissues of the mouth",
+    "chapter": "Chapter 13"
+  },
+  {
+    "code": "DA02.1",
+    "category": "Xerostomia",
+    "chapter": "Chapter 13"
+  },
+  {
+    "code": "DA03.0",
+    "category": "Glossitis",
+    "chapter": "Chapter 13"
+  },
+  {
+    "code": "DA04.2",
+    "category": "Sialoadenitis",
+    "chapter": "Chapter 13"
+  },
+  {
+    "code": "DA04.3",
+    "category": "Abscess of salivary gland",
+    "chapter": "Chapter 13"
+  },
+  {
+    "code": "DA04.4",
+    "category": "Sialolithiasis",
+    "chapter": "Chapter 13"
+  },
+  {
+    "code": "DA04.5",
+    "category": "Mucocele of salivary gland",
+    "chapter": "Chapter 13"
+  },
+  {
+    "code": "DA05",
+    "category": "Cysts of oral or facial-neck region",
+    "chapter": "Chapter 13"
+  },
+  {
+    "code": "DA06.0",
+    "category": "Inflammatory conditions of jaws",
+    "chapter": "Chapter 13"
+  },
+  {
+    "code": "DA08.0",
+    "category": "Dental caries",
+    "chapter": "Chapter 13"
+  },
+  {
+    "code": "DA09.6",
+    "category": "Periapical abscess",
+    "chapter": "Chapter 13"
+  },
+  {
+    "code": "DA0A",
+    "category": "Certain specified disorders of teeth or supporting structures",
+    "chapter": "Chapter 13"
+  },
+  {
+    "code": "DA0B",
+    "category": "Gingival diseases",
+    "chapter": "Chapter 13"
+  },
+  {
+    "code": "DA0C",
+    "category": "Periodontal disease",
+    "chapter": "Chapter 13"
+  },
+  {
+    "code": "DA0C.0",
+    "category": "Acute periodontitis",
+    "chapter": "Chapter 13"
+  },
+  {
+    "code": "DA0C.31",
+    "category": "Noma",
+    "chapter": "Chapter 13"
+  },
+  {
+    "code": "DA0C.4",
+    "category": "Abscess of periodontium",
+    "chapter": "Chapter 13"
+  },
+  {
+    "code": "DA0E",
+    "category": "Dentofacial anomalies",
+    "chapter": "Chapter 13"
+  },
+  {
+    "code": "DA0E.8",
+    "category": "Temporomandibular joint disorders",
+    "chapter": "Chapter 13"
+  },
+  {
+    "code": "DA20.0",
+    "category": "Oesophageal obstruction",
+    "chapter": "Chapter 13"
+  },
+  {
+    "code": "DA20.3",
+    "category": "Perforation of oesophagus",
+    "chapter": "Chapter 13"
+  },
+  {
+    "code": "DA21",
+    "category": "Motility disorders of oesophagus",
+    "chapter": "Chapter 13"
+  },
+  {
+    "code": "DA22",
+    "category": "Gastro-oesophageal reflux disease",
+    "chapter": "Chapter 13"
+  },
+  {
+    "code": "DA24",
+    "category": "Oesophagitis",
+    "chapter": "Chapter 13"
+  },
+  {
+    "code": "DA25",
+    "category": "Oesophageal ulcer",
+    "chapter": "Chapter 13"
+  },
+  {
+    "code": "DA2Y",
+    "category": "Other specified diseases of oesophagus",
+    "chapter": "Chapter 13"
+  },
+  {
+    "code": "DA40.0",
+    "category": "Gastric outlet obstruction",
+    "chapter": "Chapter 13"
+  },
+  {
+    "code": "DA42",
+    "category": "Gastritis",
+    "chapter": "Chapter 13"
+  },
+  {
+    "code": "DA42.1",
+    "category": "Helicobacter pylori induced gastritis",
+    "chapter": "Chapter 13"
+  },
+  {
+    "code": "DA42.8",
+    "category": "Gastritis due to external causes",
+    "chapter": "Chapter 13"
+  },
+  {
+    "code": "DA42.Y",
+    "category": "Other specified gastritis",
+    "chapter": "Chapter 13"
+  },
+  {
+    "code": "DA51",
+    "category": "Duodenitis",
+    "chapter": "Chapter 13"
+  },
+  {
+    "code": "DA51.0",
+    "category": "Helicobacter-pylori associated duodenitis",
+    "chapter": "Chapter 13"
+  },
+  {
+    "code": "DA60",
+    "category": "Gastric ulcer",
+    "chapter": "Chapter 13"
+  },
+  {
+    "code": "DA60.3",
+    "category": "Stress ulcer of stomach",
+    "chapter": "Chapter 13"
+  },
+  {
+    "code": "DA61",
+    "category": "Peptic ulcer site unspecified",
+    "chapter": "Chapter 13"
+  },
+  {
+    "code": "DA63",
+    "category": "Duodenal ulcer",
+    "chapter": "Chapter 13"
+  },
+  {
+    "code": "DA91",
+    "category": "Obstruction of small intestine",
+    "chapter": "Chapter 13"
+  },
+  {
+    "code": "DA93.0",
+    "category": "Paralytic ileus",
+    "chapter": "Chapter 13"
+  },
+  {
+    "code": "DB10",
+    "category": "Appendicitis",
+    "chapter": "Chapter 13"
+  },
+  {
+    "code": "DB30",
+    "category": "Obstruction of large intestine",
+    "chapter": "Chapter 13"
+  },
+  {
+    "code": "DB30.1",
+    "category": "Volvulus of large intestine",
+    "chapter": "Chapter 13"
+  },
+  {
+    "code": "DB30.3",
+    "category": "Impaction of large intestine",
+    "chapter": "Chapter 13"
+  },
+  {
+    "code": "DB31.2",
+    "category": "Rectal prolapse",
+    "chapter": "Chapter 13"
+  },
+  {
+    "code": "DB35",
+    "category": "Polyp of large intestine",
+    "chapter": "Chapter 13"
+  },
+  {
+    "code": "DB36",
+    "category": "Certain infections of the large intestine",
+    "chapter": "Chapter 13"
+  },
+  {
+    "code": "DB50.0",
+    "category": "Anal fissure",
+    "chapter": "Chapter 13"
+  },
+  {
+    "code": "DB50.1",
+    "category": "Anal fistula",
+    "chapter": "Chapter 13"
+  },
+  {
+    "code": "DB51",
+    "category": "Stenosis of anal canal",
+    "chapter": "Chapter 13"
+  },
+  {
+    "code": "DB52",
+    "category": "Ulcer of anus",
+    "chapter": "Chapter 13"
+  },
+  {
+    "code": "DB53",
+    "category": "Anal prolapse",
+    "chapter": "Chapter 13"
+  },
+  {
+    "code": "DB60",
+    "category": "Haemorrhoids",
+    "chapter": "Chapter 13"
+  },
+  {
+    "code": "DB61",
+    "category": "Perianal venous thrombosis",
+    "chapter": "Chapter 13"
+  },
+  {
+    "code": "DB62",
+    "category": "Residual haemorrhoidal skin tags",
+    "chapter": "Chapter 13"
+  },
+  {
+    "code": "DB70",
+    "category": "Infections of the anal region",
+    "chapter": "Chapter 13"
+  },
+  {
+    "code": "DB70.00",
+    "category": "Anal abscess",
+    "chapter": "Chapter 13"
+  },
+  {
+    "code": "DB71",
+    "category": "Anal polyp",
+    "chapter": "Chapter 13"
+  },
+  {
+    "code": "DB7Z",
+    "category": "Diseases of anal canal unspecified",
+    "chapter": "Chapter 13"
+  },
+  {
+    "code": "DB91",
+    "category": "Acute or subacute hepatic failure",
+    "chapter": "Chapter 13"
+  },
+  {
+    "code": "DB92",
+    "category": "Non-alcoholic fatty liver disease",
+    "chapter": "Chapter 13"
+  },
+  {
+    "code": "DB93.1",
+    "category": "Hepatic cirrhosis",
+    "chapter": "Chapter 13"
+  },
+  {
+    "code": "DB94",
+    "category": "Alcoholic liver disease",
+    "chapter": "Chapter 13"
+  },
+  {
+    "code": "DB95",
+    "category": "Drug-induced or toxic liver disease",
+    "chapter": "Chapter 13"
+  },
+  {
+    "code": "DB98",
+    "category": "Vascular disorders of the liver",
+    "chapter": "Chapter 13"
+  },
+  {
+    "code": "DB98.7",
+    "category": "Portal hypertension",
+    "chapter": "Chapter 13"
+  },
+  {
+    "code": "DB99.0",
+    "category": "Chronic liver disease",
+    "chapter": "Chapter 13"
+  },
+  {
+    "code": "DB99.5",
+    "category": "Hepatic encephalopathy",
+    "chapter": "Chapter 13"
+  },
+  {
+    "code": "DC10.0",
+    "category": "Obstruction of gallbladder or bile ducts",
+    "chapter": "Chapter 13"
+  },
+  {
+    "code": "DC11",
+    "category": "Cholelithiasis",
+    "chapter": "Chapter 13"
+  },
+  {
+    "code": "DC12",
+    "category": "Cholecystitis",
+    "chapter": "Chapter 13"
+  },
+  {
+    "code": "DC13",
+    "category": "Cholangitis",
+    "chapter": "Chapter 13"
+  },
+  {
+    "code": "DC1Y",
+    "category": "Other specified diseases of gallbladder or biliary tract",
+    "chapter": "Chapter 13"
+  },
+  {
+    "code": "DC31",
+    "category": "Acute pancreatitis",
+    "chapter": "Chapter 13"
+  },
+  {
+    "code": "DC32",
+    "category": "Chronic pancreatitis",
+    "chapter": "Chapter 13"
+  },
+  {
+    "code": "DC34",
+    "category": "Obstructive pancreatitis",
+    "chapter": "Chapter 13"
+  },
+  {
+    "code": "DC50",
+    "category": "Peritonitis",
+    "chapter": "Chapter 13"
+  },
+  {
+    "code": "DC50.2",
+    "category": "Peritoneal abscess",
+    "chapter": "Chapter 13"
+  },
+  {
+    "code": "DC51.2",
+    "category": "Haemoperitoneum",
+    "chapter": "Chapter 13"
+  },
+  {
+    "code": "DC70",
+    "category": "Diverticulitis of small intestine",
+    "chapter": "Chapter 13"
+  },
+  {
+    "code": "DC71",
+    "category": "Diverticulosis of small intestine",
+    "chapter": "Chapter 13"
+  },
+  {
+    "code": "DC72",
+    "category": "Diverticulum of small intestine",
+    "chapter": "Chapter 13"
+  },
+  {
+    "code": "DC80",
+    "category": "Diverticulitis of large intestine",
+    "chapter": "Chapter 13"
+  },
+  {
+    "code": "DC81",
+    "category": "Diverticulosis of large intestine",
+    "chapter": "Chapter 13"
+  },
+  {
+    "code": "DC82",
+    "category": "Diverticulum of large intestine",
+    "chapter": "Chapter 13"
+  },
+  {
+    "code": "DD31.00",
+    "category": "Ischaemic colitis",
+    "chapter": "Chapter 13"
+  },
+  {
+    "code": "DD50",
+    "category": "Non-abdominal wall hernia",
+    "chapter": "Chapter 13"
+  },
+  {
+    "code": "DD51",
+    "category": "Inguinal hernia",
+    "chapter": "Chapter 13"
+  },
+  {
+    "code": "DD52",
+    "category": "Femoral hernia",
+    "chapter": "Chapter 13"
+  },
+  {
+    "code": "DD53",
+    "category": "Umbilical hernia",
+    "chapter": "Chapter 13"
+  },
+  {
+    "code": "DD54",
+    "category": "Paraumbilical hernia",
+    "chapter": "Chapter 13"
+  },
+  {
+    "code": "DD55",
+    "category": "Epigastric hernia",
+    "chapter": "Chapter 13"
+  },
+  {
+    "code": "DD56",
+    "category": "Incisional hernia",
+    "chapter": "Chapter 13"
+  },
+  {
+    "code": "DD57",
+    "category": "Parastomal hernia",
+    "chapter": "Chapter 13"
+  },
+  {
+    "code": "DD5Z",
+    "category": "Hernias unspecified",
+    "chapter": "Chapter 13"
+  },
+  {
+    "code": "DD91.0",
+    "category": "Irritable bowel syndrome",
+    "chapter": "Chapter 13"
+  },
+  {
+    "code": "DD91.2",
+    "category": "Functional diarrhoea",
+    "chapter": "Chapter 13"
+  },
+  {
+    "code": "DD93.1",
+    "category": "Infantile colic",
+    "chapter": "Chapter 13"
+  },
+  {
+    "code": "DE10",
+    "category": "Vomiting following gastrointestinal surgery",
+    "chapter": "Chapter 13"
+  },
+  {
+    "code": "DE2Y",
+    "category": "Other specified diseases of the digestive system",
+    "chapter": "Chapter 13"
+  },
+  {
+    "code": "EA10",
+    "category": "Pityriasis rosea",
+    "chapter": "Chapter 14"
+  },
+  {
+    "code": "EA60.0",
+    "category": "Subcutaneous mycoses",
+    "chapter": "Chapter 14"
+  },
+  {
+    "code": "EA80",
+    "category": "Atopic eczema",
+    "chapter": "Chapter 14"
+  },
+  {
+    "code": "EA80.0",
+    "category": "Infantile atopic eczema",
+    "chapter": "Chapter 14"
+  },
+  {
+    "code": "EA80.1",
+    "category": "Childhood atopic eczema",
+    "chapter": "Chapter 14"
+  },
+  {
+    "code": "EA80.2",
+    "category": "Adult atopic eczema",
+    "chapter": "Chapter 14"
+  },
+  {
+    "code": "EA81.0",
+    "category": "Seborrhoeic dermatitis of face",
+    "chapter": "Chapter 14"
+  },
+  {
+    "code": "EA81.1",
+    "category": "Seborrhoeic dermatitis of the scalp",
+    "chapter": "Chapter 14"
+  },
+  {
+    "code": "EA81.Z",
+    "category": "Seborrhoeic dermatitis unspecified",
+    "chapter": "Chapter 14"
+  },
+  {
+    "code": "EA82",
+    "category": "Nummular dermatitis",
+    "chapter": "Chapter 14"
+  },
+  {
+    "code": "EA83",
+    "category": "Lichen simplex or lichenification",
+    "chapter": "Chapter 14"
+  },
+  {
+    "code": "EA84",
+    "category": "Asteatotic eczema",
+    "chapter": "Chapter 14"
+  },
+  {
+    "code": "EA88.4",
+    "category": "Pityriasis alba",
+    "chapter": "Chapter 14"
+  },
+  {
+    "code": "EA8Z",
+    "category": "Dermatitis or eczema unspecified",
+    "chapter": "Chapter 14"
+  },
+  {
+    "code": "EA90",
+    "category": "Psoriasis",
+    "chapter": "Chapter 14"
+  },
+  {
+    "code": "EA90.0",
+    "category": "Plaque psoriasis",
+    "chapter": "Chapter 14"
+  },
+  {
+    "code": "EA90.4",
+    "category": "Pustular psoriasis",
+    "chapter": "Chapter 14"
+  },
+  {
+    "code": "EA90.50",
+    "category": "Scalp psoriasis",
+    "chapter": "Chapter 14"
+  },
+  {
+    "code": "EA90.53",
+    "category": "Anogenital psoriasis",
+    "chapter": "Chapter 14"
+  },
+  {
+    "code": "EA91",
+    "category": "Lichen planus",
+    "chapter": "Chapter 14"
+  },
+  {
+    "code": "EA92",
+    "category": "Lichenoid dermatoses",
+    "chapter": "Chapter 14"
+  },
+  {
+    "code": "EB00.0",
+    "category": "Acute urticaria",
+    "chapter": "Chapter 14"
+  },
+  {
+    "code": "EB00.1",
+    "category": "Chronic urticaria",
+    "chapter": "Chapter 14"
+  },
+  {
+    "code": "EB04",
+    "category": "Idiopathic angioedema",
+    "chapter": "Chapter 14"
+  },
+  {
+    "code": "EB05",
+    "category": "Urticaria of unspecified type",
+    "chapter": "Chapter 14"
+  },
+  {
+    "code": "EB12",
+    "category": "Erythema multiforme",
+    "chapter": "Chapter 14"
+  },
+  {
+    "code": "EB13.0",
+    "category": "Stevens-Johnson syndrome",
+    "chapter": "Chapter 14"
+  },
+  {
+    "code": "EB31",
+    "category": "Erythema nodosum",
+    "chapter": "Chapter 14"
+  },
+  {
+    "code": "EB51",
+    "category": "Chronic cutaneous lupus erythematosus",
+    "chapter": "Chapter 14"
+  },
+  {
+    "code": "EB51.0",
+    "category": "Discoid lupus erythematosus",
+    "chapter": "Chapter 14"
+  },
+  {
+    "code": "EB90.0",
+    "category": "Diabetic skin lesions",
+    "chapter": "Chapter 14"
+  },
+  {
+    "code": "EB90.3",
+    "category": "Porphyria or pseudoporphyria affecting the skin",
+    "chapter": "Chapter 14"
+  },
+  {
+    "code": "EC23.20",
+    "category": "Oculocutaneous albinism",
+    "chapter": "Chapter 14"
+  },
+  {
+    "code": "EC90",
+    "category": "Pruritus",
+    "chapter": "Chapter 14"
+  },
+  {
+    "code": "EC90.1",
+    "category": "Pruritus due to systemic disorder",
+    "chapter": "Chapter 14"
+  },
+  {
+    "code": "EC90.5",
+    "category": "Anogenital pruritus",
+    "chapter": "Chapter 14"
+  },
+  {
+    "code": "EC91",
+    "category": "Prurigo",
+    "chapter": "Chapter 14"
+  },
+  {
+    "code": "ED30.0",
+    "category": "Neuropathic skin ulceration",
+    "chapter": "Chapter 14"
+  },
+  {
+    "code": "ED54",
+    "category": "Xerosis cutis or asteatosis",
+    "chapter": "Chapter 14"
+  },
+  {
+    "code": "ED60.1",
+    "category": "Melasma",
+    "chapter": "Chapter 14"
+  },
+  {
+    "code": "ED60.2",
+    "category": "Postinflammatory hypermelanosis",
+    "chapter": "Chapter 14"
+  },
+  {
+    "code": "ED63.0",
+    "category": "Vitiligo",
+    "chapter": "Chapter 14"
+  },
+  {
+    "code": "ED6Y",
+    "category": "Other specified disorders of skin pigmentation",
+    "chapter": "Chapter 14"
+  },
+  {
+    "code": "ED70.2",
+    "category": "Alopecia areata",
+    "chapter": "Chapter 14"
+  },
+  {
+    "code": "ED72",
+    "category": "Hirsutism and syndromes with hirsutism",
+    "chapter": "Chapter 14"
+  },
+  {
+    "code": "ED80.Z",
+    "category": "Acne unspecified",
+    "chapter": "Chapter 14"
+  },
+  {
+    "code": "ED90.0",
+    "category": "Rosacea",
+    "chapter": "Chapter 14"
+  },
+  {
+    "code": "ED90.1",
+    "category": "Periorificial dermatitis",
+    "chapter": "Chapter 14"
+  },
+  {
+    "code": "ED91.2",
+    "category": "Seborrhoea",
+    "chapter": "Chapter 14"
+  },
+  {
+    "code": "EE12.0",
+    "category": "Acute bacterial paronychia",
+    "chapter": "Chapter 14"
+  },
+  {
+    "code": "EE12.1",
+    "category": "Onychomycosis",
+    "chapter": "Chapter 14"
+  },
+  {
+    "code": "EE13.1",
+    "category": "Ingrowing nail",
+    "chapter": "Chapter 14"
+  },
+  {
+    "code": "EE13.2",
+    "category": "Chronic paronychia",
+    "chapter": "Chapter 14"
+  },
+  {
+    "code": "EE60",
+    "category": "Keloid or hypertrophic scars",
+    "chapter": "Chapter 14"
+  },
+  {
+    "code": "EG30.0",
+    "category": "Scalp folliculitis",
+    "chapter": "Chapter 14"
+  },
+  {
+    "code": "EG60",
+    "category": "Anal pruritus",
+    "chapter": "Chapter 14"
+  },
+  {
+    "code": "EG62",
+    "category": "Inflammatory dermatoses of the perianal area",
+    "chapter": "Chapter 14"
+  },
+  {
+    "code": "EH11",
+    "category": "Neonatal pyogenic skin infections",
+    "chapter": "Chapter 14"
+  },
+  {
+    "code": "EH40.0",
+    "category": "Infantile seborrhoeic dermatitis",
+    "chapter": "Chapter 14"
+  },
+  {
+    "code": "EH40.1",
+    "category": "Infantile napkin dermatoses",
+    "chapter": "Chapter 14"
+  },
+  {
+    "code": "EH66",
+    "category": "Fixed drug eruption",
+    "chapter": "Chapter 14"
+  },
+  {
+    "code": "EH90",
+    "category": "Pressure ulceration",
+    "chapter": "Chapter 14"
+  },
+  {
+    "code": "EH92.0",
+    "category": "Corns or callosities",
+    "chapter": "Chapter 14"
+  },
+  {
+    "code": "EH93.0",
+    "category": "Tattoos or tattoo reactions",
+    "chapter": "Chapter 14"
+  },
+  {
+    "code": "EJ30",
+    "category": "Autoimmune or other photodermatoses",
+    "chapter": "Chapter 14"
+  },
+  {
+    "code": "EJ40",
+    "category": "Sunburn",
+    "chapter": "Chapter 14"
+  },
+  {
+    "code": "EK00",
+    "category": "Allergic contact dermatitis",
+    "chapter": "Chapter 14"
+  },
+  {
+    "code": "EK02",
+    "category": "Irritant contact dermatitis",
+    "chapter": "Chapter 14"
+  },
+  {
+    "code": "EK10",
+    "category": "Allergic contact urticaria",
+    "chapter": "Chapter 14"
+  },
+  {
+    "code": "EK50.00",
+    "category": "Papular urticaria",
+    "chapter": "Chapter 14"
+  },
+  {
+    "code": "EK70.0",
+    "category": "Epidermoid cyst",
+    "chapter": "Chapter 14"
+  },
+  {
+    "code": "EK70.Z",
+    "category": "Cutaneous cysts unspecified",
+    "chapter": "Chapter 14"
+  },
+  {
+    "code": "EK71",
+    "category": "Skin tags or polyps",
+    "chapter": "Chapter 14"
+  },
+  {
+    "code": "EM0Y",
+    "category": "Other specified diseases of the skin",
+    "chapter": "Chapter 14"
+  },
+  {
+    "code": "FA00",
+    "category": "Osteoarthritis of hip",
+    "chapter": "Chapter 15"
+  },
+  {
+    "code": "FA01",
+    "category": "Osteoarthritis of knee",
+    "chapter": "Chapter 15"
+  },
+  {
+    "code": "FA02",
+    "category": "Osteoarthritis of wrist and hand",
+    "chapter": "Chapter 15"
+  },
+  {
+    "code": "FA04",
+    "category": "Oligoosteoarthritis",
+    "chapter": "Chapter 15"
+  },
+  {
+    "code": "FA11",
+    "category": "Reactive arthropathies",
+    "chapter": "Chapter 15"
+  },
+  {
+    "code": "FA12",
+    "category": "Postinfectious arthropathies",
+    "chapter": "Chapter 15"
+  },
+  {
+    "code": "FA13",
+    "category": "Infectious spondyloarthritis",
+    "chapter": "Chapter 15"
+  },
+  {
+    "code": "FA1Y",
+    "category": "Other specified infection related arthropathies",
+    "chapter": "Chapter 15"
+  },
+  {
+    "code": "FA20",
+    "category": "Rheumatoid arthritis",
+    "chapter": "Chapter 15"
+  },
+  {
+    "code": "FA21",
+    "category": "Psoriatic arthritis",
+    "chapter": "Chapter 15"
+  },
+  {
+    "code": "FA24",
+    "category": "Juvenile idiopathic arthritis",
+    "chapter": "Chapter 15"
+  },
+  {
+    "code": "FA25",
+    "category": "Gout",
+    "chapter": "Chapter 15"
+  },
+  {
+    "code": "FA30",
+    "category": "Acquired deformities of fingers or toes",
+    "chapter": "Chapter 15"
+  },
+  {
+    "code": "FA30.0",
+    "category": "Acquired hallux valgus",
+    "chapter": "Chapter 15"
+  },
+  {
+    "code": "FA31",
+    "category": "Other acquired deformities of limbs",
+    "chapter": "Chapter 15"
+  },
+  {
+    "code": "FA32",
+    "category": "Disorders of patella",
+    "chapter": "Chapter 15"
+  },
+  {
+    "code": "FA38.0",
+    "category": "Diabetic arthropathy",
+    "chapter": "Chapter 15"
+  },
+  {
+    "code": "FA5Y",
+    "category": "Other specified arthropathies",
+    "chapter": "Chapter 15"
+  },
+  {
+    "code": "FA70",
+    "category": "Spinal deformities",
+    "chapter": "Chapter 15"
+  },
+  {
+    "code": "FA70.0",
+    "category": "Kyphosis",
+    "chapter": "Chapter 15"
+  },
+  {
+    "code": "FA70.1",
+    "category": "Scoliosis",
+    "chapter": "Chapter 15"
+  },
+  {
+    "code": "FA70.2",
+    "category": "Lordosis",
+    "chapter": "Chapter 15"
+  },
+  {
+    "code": "FA71",
+    "category": "Torticollis",
+    "chapter": "Chapter 15"
+  },
+  {
+    "code": "FA80",
+    "category": "Intervertebral disc degeneration",
+    "chapter": "Chapter 15"
+  },
+  {
+    "code": "FA81",
+    "category": "Spondylolysis",
+    "chapter": "Chapter 15"
+  },
+  {
+    "code": "FA82",
+    "category": "Spinal stenosis",
+    "chapter": "Chapter 15"
+  },
+  {
+    "code": "FA83",
+    "category": "Ossification of spinal ligaments",
+    "chapter": "Chapter 15"
+  },
+  {
+    "code": "FA85",
+    "category": "Spinal endplate defects",
+    "chapter": "Chapter 15"
+  },
+  {
+    "code": "FB1Y",
+    "category": "Other specified conditions associated with the spine",
+    "chapter": "Chapter 15"
+  },
+  {
+    "code": "FB40",
+    "category": "Tenosynovitis",
+    "chapter": "Chapter 15"
+  },
+  {
+    "code": "FB40.1",
+    "category": "Plantar fasciitis",
+    "chapter": "Chapter 15"
+  },
+  {
+    "code": "FB40.4",
+    "category": "Trigger finger",
+    "chapter": "Chapter 15"
+  },
+  {
+    "code": "FB41",
+    "category": "Spontaneous rupture of synovium or tendon",
+    "chapter": "Chapter 15"
+  },
+  {
+    "code": "FB42.2",
+    "category": "Ganglion",
+    "chapter": "Chapter 15"
+  },
+  {
+    "code": "FB4Y",
+    "category": "Other specified disorders of synovium or tendon",
+    "chapter": "Chapter 15"
+  },
+  {
+    "code": "FB51",
+    "category": "Fibroblastic disorders",
+    "chapter": "Chapter 15"
+  },
+  {
+    "code": "FB54.3",
+    "category": "Calcaneal spur",
+    "chapter": "Chapter 15"
+  },
+  {
+    "code": "FB55.0",
+    "category": "Medial epicondylitis of elbow",
+    "chapter": "Chapter 15"
+  },
+  {
+    "code": "FB55.1",
+    "category": "Lateral epicondylitis of elbow",
+    "chapter": "Chapter 15"
+  },
+  {
+    "code": "FB6Z",
+    "category": "Soft tissue disorders unspecified",
+    "chapter": "Chapter 15"
+  },
+  {
+    "code": "FB80.7",
+    "category": "Malunion of fracture",
+    "chapter": "Chapter 15"
+  },
+  {
+    "code": "FB80.8",
+    "category": "Nonunion of fracture",
+    "chapter": "Chapter 15"
+  },
+  {
+    "code": "FB80.9",
+    "category": "Delayed union of fracture",
+    "chapter": "Chapter 15"
+  },
+  {
+    "code": "FB80.A",
+    "category": "Stress fracture not elsewhere classified",
+    "chapter": "Chapter 15"
+  },
+  {
+    "code": "FB80.B",
+    "category": "Pathological fracture not elsewhere classified",
+    "chapter": "Chapter 15"
+  },
+  {
+    "code": "FB81",
+    "category": "Osteonecrosis",
+    "chapter": "Chapter 15"
+  },
+  {
+    "code": "FB82",
+    "category": "Chondropathies",
+    "chapter": "Chapter 15"
+  },
+  {
+    "code": "FB83",
+    "category": "Low bone mass disorders",
+    "chapter": "Chapter 15"
+  },
+  {
+    "code": "FB83.1",
+    "category": "Osteoporosis",
+    "chapter": "Chapter 15"
+  },
+  {
+    "code": "FB84",
+    "category": "Osteomyelitis or osteitis",
+    "chapter": "Chapter 15"
+  },
+  {
+    "code": "FB85",
+    "category": "Paget disease of bone",
+    "chapter": "Chapter 15"
+  },
+  {
+    "code": "FC01",
+    "category": "Postprocedural disorders of the musculoskeletal system",
+    "chapter": "Chapter 15"
+  },
+  {
+    "code": "FC0Y",
+    "category": "Other specified diseases of the musculoskeletal system or connective tissue",
+    "chapter": "Chapter 15"
+  },
+  {
+    "code": "GA00",
+    "category": "Vulvitis",
+    "chapter": "Chapter 16"
+  },
+  {
+    "code": "GA00.0",
+    "category": "Acute vulvitis",
+    "chapter": "Chapter 16"
+  },
+  {
+    "code": "GA00.2",
+    "category": "Abscess of vulva",
+    "chapter": "Chapter 16"
+  },
+  {
+    "code": "GA00.3",
+    "category": "Genital ulcer of vulva",
+    "chapter": "Chapter 16"
+  },
+  {
+    "code": "GA00.40",
+    "category": "Vulvovaginal ulceration",
+    "chapter": "Chapter 16"
+  },
+  {
+    "code": "GA01.00",
+    "category": "Acute endometritis",
+    "chapter": "Chapter 16"
+  },
+  {
+    "code": "GA01.10",
+    "category": "Chronic endometritis",
+    "chapter": "Chapter 16"
+  },
+  {
+    "code": "GA02",
+    "category": "Vaginitis",
+    "chapter": "Chapter 16"
+  },
+  {
+    "code": "GA02.0",
+    "category": "Acute vaginitis",
+    "chapter": "Chapter 16"
+  },
+  {
+    "code": "GA02.3",
+    "category": "Genital ulcer disease of vagina",
+    "chapter": "Chapter 16"
+  },
+  {
+    "code": "GA03.0",
+    "category": "Abscess of Bartholin gland",
+    "chapter": "Chapter 16"
+  },
+  {
+    "code": "GA03.1",
+    "category": "Cyst of Bartholin gland",
+    "chapter": "Chapter 16"
+  },
+  {
+    "code": "GA04",
+    "category": "Cervicitis",
+    "chapter": "Chapter 16"
+  },
+  {
+    "code": "GA05",
+    "category": "Female pelvic inflammatory diseases",
+    "chapter": "Chapter 16"
+  },
+  {
+    "code": "GA05.0",
+    "category": "Acute female pelvic inflammatory disease",
+    "chapter": "Chapter 16"
+  },
+  {
+    "code": "GA05.3",
+    "category": "Tuboovarian abscess",
+    "chapter": "Chapter 16"
+  },
+  {
+    "code": "GA06",
+    "category": "Pelvic peritoneal adhesions of unknown or combined origin",
+    "chapter": "Chapter 16"
+  },
+  {
+    "code": "GA07",
+    "category": "Salpingitis and oophoritis",
+    "chapter": "Chapter 16"
+  },
+  {
+    "code": "GA10",
+    "category": "Endometriosis",
+    "chapter": "Chapter 16"
+  },
+  {
+    "code": "GA11",
+    "category": "Adenomyosis",
+    "chapter": "Chapter 16"
+  },
+  {
+    "code": "GA12",
+    "category": "Dyspareunia",
+    "chapter": "Chapter 16"
+  },
+  {
+    "code": "GA13.0",
+    "category": "Polyp of vulva",
+    "chapter": "Chapter 16"
+  },
+  {
+    "code": "GA13.6",
+    "category": "Vulvar laceration",
+    "chapter": "Chapter 16"
+  },
+  {
+    "code": "GA13.7",
+    "category": "Vulvar haematoma",
+    "chapter": "Chapter 16"
+  },
+  {
+    "code": "GA14.0",
+    "category": "Polyp of vagina",
+    "chapter": "Chapter 16"
+  },
+  {
+    "code": "GA14.1",
+    "category": "Haematocolpos",
+    "chapter": "Chapter 16"
+  },
+  {
+    "code": "GA14.2",
+    "category": "Vaginal foreign body",
+    "chapter": "Chapter 16"
+  },
+  {
+    "code": "GA14.3",
+    "category": "Vaginal haematoma",
+    "chapter": "Chapter 16"
+  },
+  {
+    "code": "GA15.0",
+    "category": "Polyp of cervix uteri",
+    "chapter": "Chapter 16"
+  },
+  {
+    "code": "GA15.6",
+    "category": "Incompetence of cervix uteri",
+    "chapter": "Chapter 16"
+  },
+  {
+    "code": "GA15.7",
+    "category": "Dysplasia of cervix uteri",
+    "chapter": "Chapter 16"
+  },
+  {
+    "code": "GA16.1",
+    "category": "Malposition of uterus",
+    "chapter": "Chapter 16"
+  },
+  {
+    "code": "GA18.0",
+    "category": "Follicular cyst of ovary",
+    "chapter": "Chapter 16"
+  },
+  {
+    "code": "GA20.0",
+    "category": "Amenorrhoea",
+    "chapter": "Chapter 16"
+  },
+  {
+    "code": "GA20.00",
+    "category": "Primary amenorrhoea",
+    "chapter": "Chapter 16"
+  },
+  {
+    "code": "GA20.01",
+    "category": "Secondary amenorrhoea",
+    "chapter": "Chapter 16"
+  },
+  {
+    "code": "GA20.02",
+    "category": "Lactational amenorrhoea",
+    "chapter": "Chapter 16"
+  },
+  {
+    "code": "GA20.10",
+    "category": "Frequent menstrual bleeding",
+    "chapter": "Chapter 16"
+  },
+  {
+    "code": "GA20.11",
+    "category": "Infrequent menstrual bleeding",
+    "chapter": "Chapter 16"
+  },
+  {
+    "code": "GA20.20",
+    "category": "Intermenstrual bleeding",
+    "chapter": "Chapter 16"
+  },
+  {
+    "code": "GA20.50",
+    "category": "Heavy menstrual bleeding",
+    "chapter": "Chapter 16"
+  },
+  {
+    "code": "GA20.51",
+    "category": "Light menstrual bleeding",
+    "chapter": "Chapter 16"
+  },
+  {
+    "code": "GA21.0",
+    "category": "Postcoital or contact bleeding",
+    "chapter": "Chapter 16"
+  },
+  {
+    "code": "GA22",
+    "category": "Excessive menstruation with irregular cycle",
+    "chapter": "Chapter 16"
+  },
+  {
+    "code": "GA23",
+    "category": "Anovulatory bleeding",
+    "chapter": "Chapter 16"
+  },
+  {
+    "code": "GA2Z",
+    "category": "Abnormal uterine or vaginal bleeding unspecified",
+    "chapter": "Chapter 16"
+  },
+  {
+    "code": "GA30.0",
+    "category": "Menopause",
+    "chapter": "Chapter 16"
+  },
+  {
+    "code": "GA30.1",
+    "category": "Postmenopausal uterine bleeding",
+    "chapter": "Chapter 16"
+  },
+  {
+    "code": "GA30.2",
+    "category": "Postmenopausal atrophic vaginitis",
+    "chapter": "Chapter 16"
+  },
+  {
+    "code": "GA30.4",
+    "category": "Menopausal hot flush",
+    "chapter": "Chapter 16"
+  },
+  {
+    "code": "GA30.5",
+    "category": "Menopausal osteoporosis",
+    "chapter": "Chapter 16"
+  },
+  {
+    "code": "GA30.6",
+    "category": "Premature ovarian failure",
+    "chapter": "Chapter 16"
+  },
+  {
+    "code": "GA31",
+    "category": "Female infertility",
+    "chapter": "Chapter 16"
+  },
+  {
+    "code": "GA31.0",
+    "category": "Primary female infertility",
+    "chapter": "Chapter 16"
+  },
+  {
+    "code": "GA31.1",
+    "category": "Secondary female infertility",
+    "chapter": "Chapter 16"
+  },
+  {
+    "code": "GA33",
+    "category": "Recurrent pregnancy loss",
+    "chapter": "Chapter 16"
+  },
+  {
+    "code": "GA34.02",
+    "category": "Vulvodynia",
+    "chapter": "Chapter 16"
+  },
+  {
+    "code": "GA34.3",
+    "category": "Dysmenorrhoea",
+    "chapter": "Chapter 16"
+  },
+  {
+    "code": "GA34.4",
+    "category": "Premenstrual disturbances",
+    "chapter": "Chapter 16"
+  },
+  {
+    "code": "GA42.0",
+    "category": "Vulval pruritus",
+    "chapter": "Chapter 16"
+  },
+  {
+    "code": "GA6Y",
+    "category": "Other specified diseases of the female genital system",
+    "chapter": "Chapter 16"
+  },
+  {
+    "code": "GA80",
+    "category": "Ulcerative disorders of the penis or scrotum",
+    "chapter": "Chapter 16"
+  },
+  {
+    "code": "GA80.0",
+    "category": "Aphthosis of penis or scrotum",
+    "chapter": "Chapter 16"
+  },
+  {
+    "code": "GA81.0",
+    "category": "Penoscrotal pruritus",
+    "chapter": "Chapter 16"
+  },
+  {
+    "code": "GA90",
+    "category": "Hyperplasia of prostate",
+    "chapter": "Chapter 16"
+  },
+  {
+    "code": "GA91.0",
+    "category": "Chronic prostatitis",
+    "chapter": "Chapter 16"
+  },
+  {
+    "code": "GA91.Y",
+    "category": "Other specified inflammatory and other diseases of prostate",
+    "chapter": "Chapter 16"
+  },
+  {
+    "code": "GB00",
+    "category": "Hydrocele or spermatocele",
+    "chapter": "Chapter 16"
+  },
+  {
+    "code": "GB01.0",
+    "category": "Torsion of testis",
+    "chapter": "Chapter 16"
+  },
+  {
+    "code": "GB02",
+    "category": "Orchitis or epididymitis",
+    "chapter": "Chapter 16"
+  },
+  {
+    "code": "GB03",
+    "category": "Atrophy of testis",
+    "chapter": "Chapter 16"
+  },
+  {
+    "code": "GB04",
+    "category": "Male infertility",
+    "chapter": "Chapter 16"
+  },
+  {
+    "code": "GB05.2",
+    "category": "Phimosis",
+    "chapter": "Chapter 16"
+  },
+  {
+    "code": "GB05.3",
+    "category": "Paraphimosis",
+    "chapter": "Chapter 16"
+  },
+  {
+    "code": "GB06.1",
+    "category": "Priapism",
+    "chapter": "Chapter 16"
+  },
+  {
+    "code": "GB0Y",
+    "category": "Other specified diseases of the male genital system",
+    "chapter": "Chapter 16"
+  },
+  {
+    "code": "GB20.1",
+    "category": "Fibroadenosis of breast",
+    "chapter": "Chapter 16"
+  },
+  {
+    "code": "GB21.0",
+    "category": "Breast abscess",
+    "chapter": "Chapter 16"
+  },
+  {
+    "code": "GB21.Z",
+    "category": "Inflammatory disorders of breast unspecified",
+    "chapter": "Chapter 16"
+  },
+  {
+    "code": "GB23.1",
+    "category": "Fissure or fistula of nipple",
+    "chapter": "Chapter 16"
+  },
+  {
+    "code": "GB23.2",
+    "category": "Fat necrosis of breast",
+    "chapter": "Chapter 16"
+  },
+  {
+    "code": "GB23.5",
+    "category": "Mastodynia",
+    "chapter": "Chapter 16"
+  },
+  {
+    "code": "GB2Z",
+    "category": "Disorders of breast unspecified",
+    "chapter": "Chapter 16"
+  },
+  {
+    "code": "GB40",
+    "category": "Nephritic syndrome",
+    "chapter": "Chapter 16"
+  },
+  {
+    "code": "GB41",
+    "category": "Nephrotic syndrome",
+    "chapter": "Chapter 16"
+  },
+  {
+    "code": "GB42",
+    "category": "Persistent proteinuria or albuminuria",
+    "chapter": "Chapter 16"
+  },
+  {
+    "code": "GB50",
+    "category": "Acute tubulo-interstitial nephritis",
+    "chapter": "Chapter 16"
+  },
+  {
+    "code": "GB51",
+    "category": "Acute pyelonephritis",
+    "chapter": "Chapter 16"
+  },
+  {
+    "code": "GB52",
+    "category": "Acute tubular necrosis",
+    "chapter": "Chapter 16"
+  },
+  {
+    "code": "GB53",
+    "category": "Acute renal papillary necrosis",
+    "chapter": "Chapter 16"
+  },
+  {
+    "code": "GB54",
+    "category": "Tubulo-interstitial nephritis not specified as acute or chronic",
+    "chapter": "Chapter 16"
+  },
+  {
+    "code": "GB55",
+    "category": "Chronic tubulo-interstitial nephritis",
+    "chapter": "Chapter 16"
+  },
+  {
+    "code": "GB56",
+    "category": "Obstructive or reflux nephropathy",
+    "chapter": "Chapter 16"
+  },
+  {
+    "code": "GB57",
+    "category": "Nephrocalcinosis",
+    "chapter": "Chapter 16"
+  },
+  {
+    "code": "GB58",
+    "category": "Pyonephrosis",
+    "chapter": "Chapter 16"
+  },
+  {
+    "code": "GB59",
+    "category": "Renal or perinephric abscess",
+    "chapter": "Chapter 16"
+  },
+  {
+    "code": "GB60",
+    "category": "Acute kidney failure",
+    "chapter": "Chapter 16"
+  },
+  {
+    "code": "GB61",
+    "category": "Chronic kidney disease",
+    "chapter": "Chapter 16"
+  },
+  {
+    "code": "GB6Z",
+    "category": "Kidney failure unspecified",
+    "chapter": "Chapter 16"
+  },
+  {
+    "code": "GB70",
+    "category": "Calculus of upper urinary tract",
+    "chapter": "Chapter 16"
+  },
+  {
+    "code": "GB70.0",
+    "category": "Calculus of kidney",
+    "chapter": "Chapter 16"
+  },
+  {
+    "code": "GB70.1",
+    "category": "Calculus of ureter",
+    "chapter": "Chapter 16"
+  },
+  {
+    "code": "GB71.0",
+    "category": "Calculus in bladder",
+    "chapter": "Chapter 16"
+  },
+  {
+    "code": "GB7Z",
+    "category": "Urolithiasis unspecified",
+    "chapter": "Chapter 16"
+  },
+  {
+    "code": "GB80",
+    "category": "Nonfamilial nongenetic cystic kidney disease",
+    "chapter": "Chapter 16"
+  },
+  {
+    "code": "GB90",
+    "category": "Certain specified disorders of kidney or ureter",
+    "chapter": "Chapter 16"
+  },
+  {
+    "code": "GB90.1",
+    "category": "Hydroureter",
+    "chapter": "Chapter 16"
+  },
+  {
+    "code": "GB90.44",
+    "category": "Renal tubular acidosis",
+    "chapter": "Chapter 16"
+  },
+  {
+    "code": "GC00",
+    "category": "Cystitis",
+    "chapter": "Chapter 16"
+  },
+  {
+    "code": "GC01",
+    "category": "Other disorders of bladder",
+    "chapter": "Chapter 16"
+  },
+  {
+    "code": "GC02",
+    "category": "Urethritis and urethral syndrome",
+    "chapter": "Chapter 16"
+  },
+  {
+    "code": "GC03",
+    "category": "Urethral stricture",
+    "chapter": "Chapter 16"
+  },
+  {
+    "code": "GC04.0",
+    "category": "Urethral fistula",
+    "chapter": "Chapter 16"
+  },
+  {
+    "code": "GC04.10",
+    "category": "Vesicovaginal fistula",
+    "chapter": "Chapter 16"
+  },
+  {
+    "code": "GC04.14",
+    "category": "Urethrovaginal fistula",
+    "chapter": "Chapter 16"
+  },
+  {
+    "code": "GC04.16",
+    "category": "Rectovaginal fistula",
+    "chapter": "Chapter 16"
+  },
+  {
+    "code": "GC04.Y",
+    "category": "Other specified fistula of the genitourinary tract",
+    "chapter": "Chapter 16"
+  },
+  {
+    "code": "GC06",
+    "category": "Urethral diverticulum",
+    "chapter": "Chapter 16"
+  },
+  {
+    "code": "GC07",
+    "category": "Urethral caruncle",
+    "chapter": "Chapter 16"
+  },
+  {
+    "code": "GC08",
+    "category": "Urinary tract infection site not specified",
+    "chapter": "Chapter 16"
+  },
+  {
+    "code": "GC0Y",
+    "category": "Other diseases of urinary system",
+    "chapter": "Chapter 16"
+  },
+  {
+    "code": "GC40.2",
+    "category": "Prolapse of the vaginal apex",
+    "chapter": "Chapter 16"
+  },
+  {
+    "code": "GC40.3",
+    "category": "Uterovaginal prolapse",
+    "chapter": "Chapter 16"
+  },
+  {
+    "code": "GC51",
+    "category": "Female Genital Mutilation",
+    "chapter": "Chapter 16"
+  },
+  {
+    "code": "GC70",
+    "category": "Postoperative adhesions of vagina",
+    "chapter": "Chapter 16"
+  },
+  {
+    "code": "GC71",
+    "category": "Prolapse of vaginal vault after hysterectomy",
+    "chapter": "Chapter 16"
+  },
+  {
+    "code": "GC72",
+    "category": "Postprocedural urethral stricture",
+    "chapter": "Chapter 16"
+  },
+  {
+    "code": "GC73",
+    "category": "Postprocedural pelvic peritoneal adhesions",
+    "chapter": "Chapter 16"
+  },
+  {
+    "code": "GC8Y",
+    "category": "Other specified diseases of the genitourinary system",
+    "chapter": "Chapter 16"
+  },
+  {
+    "code": "HA00",
+    "category": "Hypoactive sexual desire dysfunction",
+    "chapter": "Chapter 17"
+  },
+  {
+    "code": "HA01.1",
+    "category": "Male erectile dysfunction",
+    "chapter": "Chapter 17"
+  },
+  {
+    "code": "HA02.02",
+    "category": "Anorgasmia acquired generalised",
+    "chapter": "Chapter 17"
+  },
+  {
+    "code": "HA03",
+    "category": "Ejaculatory dysfunctions",
+    "chapter": "Chapter 17"
+  },
+  {
+    "code": "HA03.1",
+    "category": "Male delayed ejaculation",
+    "chapter": "Chapter 17"
+  },
+  {
+    "code": "HA0Z",
+    "category": "Sexual dysfunctions unspecified",
+    "chapter": "Chapter 17"
+  },
+  {
+    "code": "HA20",
+    "category": "Sexual pain-penetration disorder",
+    "chapter": "Chapter 17"
+  },
+  {
+    "code": "HA8Y",
+    "category": "Other specified conditions related to sexual health",
+    "chapter": "Chapter 17"
+  },
+  {
+    "code": "JA00.0",
+    "category": "Spontaneous abortion",
+    "chapter": "Chapter 18"
+  },
+  {
+    "code": "JA00.1",
+    "category": "Induced abortion",
+    "chapter": "Chapter 18"
+  },
+  {
+    "code": "JA01.0",
+    "category": "Abdominal pregnancy",
+    "chapter": "Chapter 18"
+  },
+  {
+    "code": "JA01.1",
+    "category": "Tubal pregnancy",
+    "chapter": "Chapter 18"
+  },
+  {
+    "code": "JA01.Z",
+    "category": "Ectopic pregnancy unspecified",
+    "chapter": "Chapter 18"
+  },
+  {
+    "code": "JA02",
+    "category": "Molar pregnancy",
+    "chapter": "Chapter 18"
+  },
+  {
+    "code": "JA03",
+    "category": "Missed abortion",
+    "chapter": "Chapter 18"
+  },
+  {
+    "code": "JA05.2",
+    "category": "Embolism following abortion ectopic or molar pregnancy",
+    "chapter": "Chapter 18"
+  },
+  {
+    "code": "JA22",
+    "category": "Gestational oedema or proteinuria without hypertension",
+    "chapter": "Chapter 18"
+  },
+  {
+    "code": "JA23",
+    "category": "Gestational hypertension",
+    "chapter": "Chapter 18"
+  },
+  {
+    "code": "JA24",
+    "category": "Pre-eclampsia",
+    "chapter": "Chapter 18"
+  },
+  {
+    "code": "JA25",
+    "category": "Eclampsia",
+    "chapter": "Chapter 18"
+  },
+  {
+    "code": "JA2Z",
+    "category": "Oedema proteinuria or hypertensive disorders in pregnancy childbirth or the puerperium unspecified",
+    "chapter": "Chapter 18"
+  },
+  {
+    "code": "JA40.0",
+    "category": "Threatened abortion",
+    "chapter": "Chapter 18"
+  },
+  {
+    "code": "JA41",
+    "category": "Antepartum haemorrhage",
+    "chapter": "Chapter 18"
+  },
+  {
+    "code": "JA42",
+    "category": "Intrapartum haemorrhage",
+    "chapter": "Chapter 18"
+  },
+  {
+    "code": "JA43",
+    "category": "Postpartum haemorrhage",
+    "chapter": "Chapter 18"
+  },
+  {
+    "code": "JA60",
+    "category": "Excessive vomiting in pregnancy",
+    "chapter": "Chapter 18"
+  },
+  {
+    "code": "JA61.0",
+    "category": "Varicose veins of lower extremity in pregnancy",
+    "chapter": "Chapter 18"
+  },
+  {
+    "code": "JA61.1",
+    "category": "Genital varices in pregnancy",
+    "chapter": "Chapter 18"
+  },
+  {
+    "code": "JA61.2",
+    "category": "Superficial thrombophlebitis in pregnancy",
+    "chapter": "Chapter 18"
+  },
+  {
+    "code": "JA61.3",
+    "category": "Deep phlebothrombosis in pregnancy",
+    "chapter": "Chapter 18"
+  },
+  {
+    "code": "JA61.4",
+    "category": "Haemorrhoids in pregnancy",
+    "chapter": "Chapter 18"
+  },
+  {
+    "code": "JA62",
+    "category": "Infections of genitourinary tract in pregnancy",
+    "chapter": "Chapter 18"
+  },
+  {
+    "code": "JA63",
+    "category": "Diabetes mellitus in pregnancy",
+    "chapter": "Chapter 18"
+  },
+  {
+    "code": "JA64",
+    "category": "Malnutrition in pregnancy",
+    "chapter": "Chapter 18"
+  },
+  {
+    "code": "JA65.2",
+    "category": "Excessive weight gain in pregnancy",
+    "chapter": "Chapter 18"
+  },
+  {
+    "code": "JA65.3",
+    "category": "Low weight gain in pregnancy",
+    "chapter": "Chapter 18"
+  },
+  {
+    "code": "JA65.6",
+    "category": "Maternal hypotension syndrome",
+    "chapter": "Chapter 18"
+  },
+  {
+    "code": "JA65.7",
+    "category": "Subluxation of symphysis pubis in pregnancy childbirth or the puerperium",
+    "chapter": "Chapter 18"
+  },
+  {
+    "code": "JA80.0",
+    "category": "Twin pregnancy",
+    "chapter": "Chapter 18"
+  },
+  {
+    "code": "JA80.1",
+    "category": "Triplet pregnancy",
+    "chapter": "Chapter 18"
+  },
+  {
+    "code": "JA87",
+    "category": "Maternal care related to polyhydramnios",
+    "chapter": "Chapter 18"
+  },
+  {
+    "code": "JA88.0",
+    "category": "Oligohydramnios",
+    "chapter": "Chapter 18"
+  },
+  {
+    "code": "JA89",
+    "category": "Maternal care related to premature rupture of membranes",
+    "chapter": "Chapter 18"
+  },
+  {
+    "code": "JA89.3",
+    "category": "Preterm premature rupture of membranes",
+    "chapter": "Chapter 18"
+  },
+  {
+    "code": "JB00",
+    "category": "Preterm labour or delivery",
+    "chapter": "Chapter 18"
+  },
+  {
+    "code": "JB01",
+    "category": "Failed induction of labour",
+    "chapter": "Chapter 18"
+  },
+  {
+    "code": "JB02.3",
+    "category": "Precipitate labour",
+    "chapter": "Chapter 18"
+  },
+  {
+    "code": "JB03.0",
+    "category": "Prolonged first stage of labour",
+    "chapter": "Chapter 18"
+  },
+  {
+    "code": "JB03.1",
+    "category": "Prolonged second stage of labour",
+    "chapter": "Chapter 18"
+  },
+  {
+    "code": "JB04",
+    "category": "Obstructed labour due to malposition or malpresentation of fetus",
+    "chapter": "Chapter 18"
+  },
+  {
+    "code": "JB05",
+    "category": "Obstructed labour due to maternal pelvic abnormality",
+    "chapter": "Chapter 18"
+  },
+  {
+    "code": "JB06",
+    "category": "Obstructed labour due to other causes",
+    "chapter": "Chapter 18"
+  },
+  {
+    "code": "JB07",
+    "category": "Labour or delivery complicated by fetal distress",
+    "chapter": "Chapter 18"
+  },
+  {
+    "code": "JB08",
+    "category": "Labour or delivery complicated by umbilical cord complications",
+    "chapter": "Chapter 18"
+  },
+  {
+    "code": "JB09",
+    "category": "Perineal laceration during delivery",
+    "chapter": "Chapter 18"
+  },
+  {
+    "code": "JB0A",
+    "category": "Certain specified obstetric trauma",
+    "chapter": "Chapter 18"
+  },
+  {
+    "code": "JB0A.0",
+    "category": "Rupture of uterus before onset of labour",
+    "chapter": "Chapter 18"
+  },
+  {
+    "code": "JB0A.1",
+    "category": "Rupture of uterus during labour",
+    "chapter": "Chapter 18"
+  },
+  {
+    "code": "JB0A.2",
+    "category": "Postpartum inversion of uterus",
+    "chapter": "Chapter 18"
+  },
+  {
+    "code": "JB0A.7",
+    "category": "Obstetric damage to pelvic joints or ligaments",
+    "chapter": "Chapter 18"
+  },
+  {
+    "code": "JB0A.8",
+    "category": "Obstetric haematoma of pelvis",
+    "chapter": "Chapter 18"
+  },
+  {
+    "code": "JB0B.0",
+    "category": "Retained placenta without haemorrhage",
+    "chapter": "Chapter 18"
+  },
+  {
+    "code": "JB0Y",
+    "category": "Other specified complications of labour or delivery",
+    "chapter": "Chapter 18"
+  },
+  {
+    "code": "JB20",
+    "category": "Single spontaneous delivery",
+    "chapter": "Chapter 18"
+  },
+  {
+    "code": "JB21",
+    "category": "Single delivery by forceps or vacuum extractor",
+    "chapter": "Chapter 18"
+  },
+  {
+    "code": "JB22",
+    "category": "Single delivery by caesarean section",
+    "chapter": "Chapter 18"
+  },
+  {
+    "code": "JB23",
+    "category": "Other assisted single delivery",
+    "chapter": "Chapter 18"
+  },
+  {
+    "code": "JB23.0",
+    "category": "Breech extraction",
+    "chapter": "Chapter 18"
+  },
+  {
+    "code": "JB24.Z",
+    "category": "Multiple delivery unspecified",
+    "chapter": "Chapter 18"
+  },
+  {
+    "code": "JB40.0",
+    "category": "Puerperal sepsis",
+    "chapter": "Chapter 18"
+  },
+  {
+    "code": "JB41.1",
+    "category": "Deep phlebothrombosis in the puerperium",
+    "chapter": "Chapter 18"
+  },
+  {
+    "code": "JB42.0",
+    "category": "Obstetric air embolism",
+    "chapter": "Chapter 18"
+  },
+  {
+    "code": "JB42.1",
+    "category": "Amniotic fluid embolism",
+    "chapter": "Chapter 18"
+  },
+  {
+    "code": "JB42.2",
+    "category": "Obstetric blood-clot embolism",
+    "chapter": "Chapter 18"
+  },
+  {
+    "code": "JB45",
+    "category": "Infections of breast associated with childbirth",
+    "chapter": "Chapter 18"
+  },
+  {
+    "code": "JB46.0",
+    "category": "Retracted nipple associated with childbirth",
+    "chapter": "Chapter 18"
+  },
+  {
+    "code": "JB46.1",
+    "category": "Cracked nipple associated with childbirth",
+    "chapter": "Chapter 18"
+  },
+  {
+    "code": "KA00",
+    "category": "Fetus or newborn affected by maternal conditions that may be unrelated to present pregnancy",
+    "chapter": "Chapter 19"
+  },
+  {
+    "code": "KA01",
+    "category": "Fetus or newborn affected by maternal complications of pregnancy",
+    "chapter": "Chapter 19"
+  },
+  {
+    "code": "KA02",
+    "category": "Fetus or newborn affected by complications of placenta",
+    "chapter": "Chapter 19"
+  },
+  {
+    "code": "KA03",
+    "category": "Fetus or newborn affected by complications of umbilical cord",
+    "chapter": "Chapter 19"
+  },
+  {
+    "code": "KA05",
+    "category": "Fetus or newborn affected by certain complications of labour or delivery",
+    "chapter": "Chapter 19"
+  },
+  {
+    "code": "KA06",
+    "category": "Fetus or newborn affected by noxious influences transmitted via placenta or breast milk",
+    "chapter": "Chapter 19"
+  },
+  {
+    "code": "KA07",
+    "category": "Neonatal dermatoses due to maternal antibodies",
+    "chapter": "Chapter 19"
+  },
+  {
+    "code": "KA20.0",
+    "category": "Small for gestational age",
+    "chapter": "Chapter 19"
+  },
+  {
+    "code": "KA21.0",
+    "category": "Extremely low birth weight of newborn",
+    "chapter": "Chapter 19"
+  },
+  {
+    "code": "KA21.1",
+    "category": "Very low birth weight of newborn",
+    "chapter": "Chapter 19"
+  },
+  {
+    "code": "KA21.2",
+    "category": "Low birth weight of newborn",
+    "chapter": "Chapter 19"
+  },
+  {
+    "code": "KA21.4",
+    "category": "Preterm newborn",
+    "chapter": "Chapter 19"
+  },
+  {
+    "code": "KA22.1",
+    "category": "Large newborn for gestational age",
+    "chapter": "Chapter 19"
+  },
+  {
+    "code": "KA22.2",
+    "category": "Post-term newborn",
+    "chapter": "Chapter 19"
+  },
+  {
+    "code": "KA41",
+    "category": "Birth injury to eye",
+    "chapter": "Chapter 19"
+  },
+  {
+    "code": "KA42",
+    "category": "Birth injury to scalp",
+    "chapter": "Chapter 19"
+  },
+  {
+    "code": "KA42.1",
+    "category": "Cephalohaematoma due to birth injury",
+    "chapter": "Chapter 19"
+  },
+  {
+    "code": "KA42.4",
+    "category": "Subgaleal epicranial subaponeurotic haemorrhage due to birth injury",
+    "chapter": "Chapter 19"
+  },
+  {
+    "code": "KA43",
+    "category": "Birth injury to skin or soft tissues",
+    "chapter": "Chapter 19"
+  },
+  {
+    "code": "KA44",
+    "category": "Birth injury to peripheral nervous system",
+    "chapter": "Chapter 19"
+  },
+  {
+    "code": "KA45.5",
+    "category": "Fracture of clavicle due to birth injury",
+    "chapter": "Chapter 19"
+  },
+  {
+    "code": "KA46",
+    "category": "Birth injury to other organs",
+    "chapter": "Chapter 19"
+  },
+  {
+    "code": "KA60",
+    "category": "Sepsis of fetus or newborn",
+    "chapter": "Chapter 19"
+  },
+  {
+    "code": "KA62",
+    "category": "Viral infection in the fetus or newborn",
+    "chapter": "Chapter 19"
+  },
+  {
+    "code": "KA63",
+    "category": "Fungal infection of fetus or newborn",
+    "chapter": "Chapter 19"
+  },
+  {
+    "code": "KA65.1",
+    "category": "Omphalitis of newborn",
+    "chapter": "Chapter 19"
+  },
+  {
+    "code": "KA80",
+    "category": "Fetal blood loss",
+    "chapter": "Chapter 19"
+  },
+  {
+    "code": "KA81",
+    "category": "Umbilical haemorrhage of newborn",
+    "chapter": "Chapter 19"
+  },
+  {
+    "code": "KA84",
+    "category": "Haemolytic disease of fetus or newborn",
+    "chapter": "Chapter 19"
+  },
+  {
+    "code": "KA85",
+    "category": "Hydrops fetalis due to haemolytic disease",
+    "chapter": "Chapter 19"
+  },
+  {
+    "code": "KA86",
+    "category": "Neonatal kernicterus",
+    "chapter": "Chapter 19"
+  },
+  {
+    "code": "KA87",
+    "category": "Neonatal hyperbilirubinaemia",
+    "chapter": "Chapter 19"
+  },
+  {
+    "code": "KA88",
+    "category": "Disseminated intravascular coagulation of fetus or newborn",
+    "chapter": "Chapter 19"
+  },
+  {
+    "code": "KA89",
+    "category": "Transient neonatal thrombocytopaenia",
+    "chapter": "Chapter 19"
+  },
+  {
+    "code": "KA8A",
+    "category": "Polycythaemia neonatorum",
+    "chapter": "Chapter 19"
+  },
+  {
+    "code": "KA8B",
+    "category": "Anaemia of prematurity",
+    "chapter": "Chapter 19"
+  },
+  {
+    "code": "KA8F",
+    "category": "Neonatal vitamin K deficiency",
+    "chapter": "Chapter 19"
+  },
+  {
+    "code": "KB01",
+    "category": "Periventricular cysts of newborn",
+    "chapter": "Chapter 19"
+  },
+  {
+    "code": "KB03",
+    "category": "Neonatal encephalopathy",
+    "chapter": "Chapter 19"
+  },
+  {
+    "code": "KB04",
+    "category": "Hypoxic ischaemic encephalopathy of newborn",
+    "chapter": "Chapter 19"
+  },
+  {
+    "code": "KB05",
+    "category": "Neonatal hydrocephalus",
+    "chapter": "Chapter 19"
+  },
+  {
+    "code": "KB06",
+    "category": "Neonatal seizures",
+    "chapter": "Chapter 19"
+  },
+  {
+    "code": "KB08",
+    "category": "Disorders of muscle tone of newborn",
+    "chapter": "Chapter 19"
+  },
+  {
+    "code": "KB20",
+    "category": "Intrauterine hypoxia",
+    "chapter": "Chapter 19"
+  },
+  {
+    "code": "KB21",
+    "category": "Birth asphyxia",
+    "chapter": "Chapter 19"
+  },
+  {
+    "code": "KB23.0",
+    "category": "Respiratory distress syndrome of newborn",
+    "chapter": "Chapter 19"
+  },
+  {
+    "code": "KB25",
+    "category": "Neonatal tracheitis",
+    "chapter": "Chapter 19"
+  },
+  {
+    "code": "KB26.0",
+    "category": "Neonatal aspiration of meconium",
+    "chapter": "Chapter 19"
+  },
+  {
+    "code": "KB26.3",
+    "category": "Neonatal aspiration of milk or regurgitated food",
+    "chapter": "Chapter 19"
+  },
+  {
+    "code": "KB28",
+    "category": "Pulmonary haemorrhage originating in the perinatal period",
+    "chapter": "Chapter 19"
+  },
+  {
+    "code": "KB2A",
+    "category": "Apnoea of newborn",
+    "chapter": "Chapter 19"
+  },
+  {
+    "code": "KB2D",
+    "category": "Respiratory failure of newborn",
+    "chapter": "Chapter 19"
+  },
+  {
+    "code": "KB2E",
+    "category": "Respiratory arrest of newborn",
+    "chapter": "Chapter 19"
+  },
+  {
+    "code": "KB2J",
+    "category": "Airway obstruction in the neonate due to airway abnormality",
+    "chapter": "Chapter 19"
+  },
+  {
+    "code": "KB45",
+    "category": "Neonatal hypertension",
+    "chapter": "Chapter 19"
+  },
+  {
+    "code": "KB60.3",
+    "category": "Neonatal hyperglycaemia",
+    "chapter": "Chapter 19"
+  },
+  {
+    "code": "KB60.4",
+    "category": "Neonatal hypoglycaemia",
+    "chapter": "Chapter 19"
+  },
+  {
+    "code": "KB63.1",
+    "category": "Dehydration of newborn",
+    "chapter": "Chapter 19"
+  },
+  {
+    "code": "KB87",
+    "category": "Intestinal obstruction of newborn",
+    "chapter": "Chapter 19"
+  },
+  {
+    "code": "KB88",
+    "category": "Necrotising enterocolitis of newborn",
+    "chapter": "Chapter 19"
+  },
+  {
+    "code": "KB89",
+    "category": "Neonatal malabsorption syndromes",
+    "chapter": "Chapter 19"
+  },
+  {
+    "code": "KB8B",
+    "category": "Neonatal peritonitis",
+    "chapter": "Chapter 19"
+  },
+  {
+    "code": "KC00",
+    "category": "Congenital hydrocele",
+    "chapter": "Chapter 19"
+  },
+  {
+    "code": "KC20.0",
+    "category": "Delayed separation of umbilical cord",
+    "chapter": "Chapter 19"
+  },
+  {
+    "code": "KC50",
+    "category": "Neonatal phototherapy burn",
+    "chapter": "Chapter 19"
+  },
+  {
+    "code": "KD10",
+    "category": "Environmental hyperthermia of newborn",
+    "chapter": "Chapter 19"
+  },
+  {
+    "code": "KD12",
+    "category": "Hypothermia of newborn",
+    "chapter": "Chapter 19"
+  },
+  {
+    "code": "KD30",
+    "category": "Birth depression",
+    "chapter": "Chapter 19"
+  },
+  {
+    "code": "KD32",
+    "category": "Feeding problems of newborn",
+    "chapter": "Chapter 19"
+  },
+  {
+    "code": "KD3Y",
+    "category": "Other specified disorders originating in the perinatal period",
+    "chapter": "Chapter 19"
+  },
+  {
+    "code": "LA00",
+    "category": "Anencephaly or similar anomalies",
+    "chapter": "Chapter 20"
+  },
+  {
+    "code": "LA01",
+    "category": "Cephalocele",
+    "chapter": "Chapter 20"
+  },
+  {
+    "code": "LA02",
+    "category": "Spina bifida",
+    "chapter": "Chapter 20"
+  },
+  {
+    "code": "LA05.0",
+    "category": "Microcephaly",
+    "chapter": "Chapter 20"
+  },
+  {
+    "code": "LA40",
+    "category": "Cleft lip",
+    "chapter": "Chapter 20"
+  },
+  {
+    "code": "LA42",
+    "category": "Cleft palate",
+    "chapter": "Chapter 20"
+  },
+  {
+    "code": "LA62",
+    "category": "Congenital torticollis",
+    "chapter": "Chapter 20"
+  },
+  {
+    "code": "LB01",
+    "category": "Omphalocele",
+    "chapter": "Chapter 20"
+  },
+  {
+    "code": "LB02",
+    "category": "Gastroschisis",
+    "chapter": "Chapter 20"
+  },
+  {
+    "code": "LB42.2",
+    "category": "Congenital rectovaginal fistula",
+    "chapter": "Chapter 20"
+  },
+  {
+    "code": "LB42.4",
+    "category": "Imperforate hymen",
+    "chapter": "Chapter 20"
+  },
+  {
+    "code": "LB50",
+    "category": "Micropenis or penis agenesis",
+    "chapter": "Chapter 20"
+  },
+  {
+    "code": "LB52.0",
+    "category": "Ectopic testis",
+    "chapter": "Chapter 20"
+  },
+  {
+    "code": "LB53",
+    "category": "Hypospadias",
+    "chapter": "Chapter 20"
+  },
+  {
+    "code": "LB55",
+    "category": "Epispadias",
+    "chapter": "Chapter 20"
+  },
+  {
+    "code": "LB70.3",
+    "category": "Macrocephaly",
+    "chapter": "Chapter 20"
+  },
+  {
+    "code": "LB75",
+    "category": "Brachydactyly",
+    "chapter": "Chapter 20"
+  },
+  {
+    "code": "LB78",
+    "category": "Polydactyly",
+    "chapter": "Chapter 20"
+  },
+  {
+    "code": "LB79",
+    "category": "Syndactyly",
+    "chapter": "Chapter 20"
+  },
+  {
+    "code": "LB80",
+    "category": "Congenital deformities of fingers",
+    "chapter": "Chapter 20"
+  },
+  {
+    "code": "LB81",
+    "category": "Congenital deformities of toes",
+    "chapter": "Chapter 20"
+  },
+  {
+    "code": "LB98",
+    "category": "Congenital deformities of feet",
+    "chapter": "Chapter 20"
+  },
+  {
+    "code": "LC40",
+    "category": "Dermoid cyst",
+    "chapter": "Chapter 20"
+  },
+  {
+    "code": "LD50.0",
+    "category": "Turner syndrome",
+    "chapter": "Chapter 20"
+  },
+  {
+    "code": "LD50.3",
+    "category": "Klinefelter syndrome",
+    "chapter": "Chapter 20"
+  },
+  {
+    "code": "MA01.0",
+    "category": "Localised lymph node enlargement",
+    "chapter": "Chapter 21"
+  },
+  {
+    "code": "MA01.1",
+    "category": "Generalised lymph node enlargement",
+    "chapter": "Chapter 21"
+  },
+  {
+    "code": "MA14.1E",
+    "category": "Rheumatoid factor positive",
+    "chapter": "Chapter 21"
+  },
+  {
+    "code": "MA15.0",
+    "category": "Bacteraemia",
+    "chapter": "Chapter 21"
+  },
+  {
+    "code": "MA16.11",
+    "category": "Elevated white blood cell count",
+    "chapter": "Chapter 21"
+  },
+  {
+    "code": "MA18.0",
+    "category": "Elevated blood glucose level",
+    "chapter": "Chapter 21"
+  },
+  {
+    "code": "MA18.4",
+    "category": "Low haemoglobin",
+    "chapter": "Chapter 21"
+  },
+  {
+    "code": "MA1A",
+    "category": "Elevated erythrocyte sedimentation rate or abnormality of plasma viscosity",
+    "chapter": "Chapter 21"
+  },
+  {
+    "code": "MA80",
+    "category": "Speech disturbances",
+    "chapter": "Chapter 21"
+  },
+  {
+    "code": "MB20.0",
+    "category": "Stupor",
+    "chapter": "Chapter 21"
+  },
+  {
+    "code": "MB20.1",
+    "category": "Coma",
+    "chapter": "Chapter 21"
+  },
+  {
+    "code": "MB21.1",
+    "category": "Amnesia",
+    "chapter": "Chapter 21"
+  },
+  {
+    "code": "MB23.R",
+    "category": "Suicide attempt",
+    "chapter": "Chapter 21"
+  },
+  {
+    "code": "MB40.5",
+    "category": "Hyperaesthesia",
+    "chapter": "Chapter 21"
+  },
+  {
+    "code": "MB44.0",
+    "category": "Ataxic gait",
+    "chapter": "Chapter 21"
+  },
+  {
+    "code": "MB44.1",
+    "category": "Paralytic gait",
+    "chapter": "Chapter 21"
+  },
+  {
+    "code": "MB47.3",
+    "category": "Cramp or spasm",
+    "chapter": "Chapter 21"
+  },
+  {
+    "code": "MB47.5",
+    "category": "Fasciculation",
+    "chapter": "Chapter 21"
+  },
+  {
+    "code": "MB47.6",
+    "category": "Meningismus",
+    "chapter": "Chapter 21"
+  },
+  {
+    "code": "MB47.B",
+    "category": "Opisthotonos",
+    "chapter": "Chapter 21"
+  },
+  {
+    "code": "MB48.0",
+    "category": "Vertigo",
+    "chapter": "Chapter 21"
+  },
+  {
+    "code": "MB50",
+    "category": "Tetraplegia",
+    "chapter": "Chapter 21"
+  },
+  {
+    "code": "MB51",
+    "category": "Diplegia of upper extremities",
+    "chapter": "Chapter 21"
+  },
+  {
+    "code": "MB52",
+    "category": "Diplegia of lower extremities",
+    "chapter": "Chapter 21"
+  },
+  {
+    "code": "MB53.1",
+    "category": "Flaccid hemiplegia",
+    "chapter": "Chapter 21"
+  },
+  {
+    "code": "MB53.2",
+    "category": "Spastic hemiplegia",
+    "chapter": "Chapter 21"
+  },
+  {
+    "code": "MB53.Z",
+    "category": "Hemiplegia unspecified",
+    "chapter": "Chapter 21"
+  },
+  {
+    "code": "MB54",
+    "category": "Monoplegia of upper extremity",
+    "chapter": "Chapter 21"
+  },
+  {
+    "code": "MB55",
+    "category": "Monoplegia of lower extremity",
+    "chapter": "Chapter 21"
+  },
+  {
+    "code": "MB56",
+    "category": "Paraplegia",
+    "chapter": "Chapter 21"
+  },
+  {
+    "code": "MC14",
+    "category": "Eye discharge",
+    "chapter": "Chapter 21"
+  },
+  {
+    "code": "MC15",
+    "category": "Red eye",
+    "chapter": "Chapter 21"
+  },
+  {
+    "code": "MC16",
+    "category": "Pallor conjunctiva",
+    "chapter": "Chapter 21"
+  },
+  {
+    "code": "MC17",
+    "category": "Icteric sclera",
+    "chapter": "Chapter 21"
+  },
+  {
+    "code": "MC1A",
+    "category": "Visual floaters",
+    "chapter": "Chapter 21"
+  },
+  {
+    "code": "MC41",
+    "category": "Tinnitus",
+    "chapter": "Chapter 21"
+  },
+  {
+    "code": "MC80.0",
+    "category": "Elevated blood-pressure reading without diagnosis of hypertension",
+    "chapter": "Chapter 21"
+  },
+  {
+    "code": "MC81.0",
+    "category": "Tachycardia unspecified",
+    "chapter": "Chapter 21"
+  },
+  {
+    "code": "MC81.1",
+    "category": "Bradycardia unspecified",
+    "chapter": "Chapter 21"
+  },
+  {
+    "code": "MC81.2",
+    "category": "Palpitations",
+    "chapter": "Chapter 21"
+  },
+  {
+    "code": "MC81.3",
+    "category": "Paroxysmal tachycardia",
+    "chapter": "Chapter 21"
+  },
+  {
+    "code": "MC82",
+    "category": "Cardiac arrest",
+    "chapter": "Chapter 21"
+  },
+  {
+    "code": "MC83",
+    "category": "Cardiac murmurs and other cardiac sounds",
+    "chapter": "Chapter 21"
+  },
+  {
+    "code": "MC85",
+    "category": "Gangrene",
+    "chapter": "Chapter 21"
+  },
+  {
+    "code": "MD11.0",
+    "category": "Apnoea",
+    "chapter": "Chapter 21"
+  },
+  {
+    "code": "MD11.5",
+    "category": "Dyspnoea",
+    "chapter": "Chapter 21"
+  },
+  {
+    "code": "MD11.6",
+    "category": "Hiccough",
+    "chapter": "Chapter 21"
+  },
+  {
+    "code": "MD11.7",
+    "category": "Hyperventilation",
+    "chapter": "Chapter 21"
+  },
+  {
+    "code": "MD11.9",
+    "category": "Nasal congestion",
+    "chapter": "Chapter 21"
+  },
+  {
+    "code": "MD11.B",
+    "category": "Stridor",
+    "chapter": "Chapter 21"
+  },
+  {
+    "code": "MD11.C",
+    "category": "Wheezing",
+    "chapter": "Chapter 21"
+  },
+  {
+    "code": "MD12",
+    "category": "Cough",
+    "chapter": "Chapter 21"
+  },
+  {
+    "code": "MD20",
+    "category": "Epistaxis",
+    "chapter": "Chapter 21"
+  },
+  {
+    "code": "MD22",
+    "category": "Haemoptysis",
+    "chapter": "Chapter 21"
+  },
+  {
+    "code": "MD31",
+    "category": "Pleurisy",
+    "chapter": "Chapter 21"
+  },
+  {
+    "code": "MD33",
+    "category": "Respiratory arrest",
+    "chapter": "Chapter 21"
+  },
+  {
+    "code": "MD81.3",
+    "category": "Acute abdomen",
+    "chapter": "Chapter 21"
+  },
+  {
+    "code": "MD92",
+    "category": "Dyspepsia",
+    "chapter": "Chapter 21"
+  },
+  {
+    "code": "MD94",
+    "category": "Halitosis",
+    "chapter": "Chapter 21"
+  },
+  {
+    "code": "ME01",
+    "category": "Abdominal distension",
+    "chapter": "Chapter 21"
+  },
+  {
+    "code": "ME02",
+    "category": "Abdominal rigidity",
+    "chapter": "Chapter 21"
+  },
+  {
+    "code": "ME04",
+    "category": "Ascites",
+    "chapter": "Chapter 21"
+  },
+  {
+    "code": "ME05.1",
+    "category": "Diarrhoea",
+    "chapter": "Chapter 21"
+  },
+  {
+    "code": "ME07",
+    "category": "Faecal incontinence",
+    "chapter": "Chapter 21"
+  },
+  {
+    "code": "ME09",
+    "category": "Rectal tenesmus",
+    "chapter": "Chapter 21"
+  },
+  {
+    "code": "ME0A",
+    "category": "Visible peristalsis",
+    "chapter": "Chapter 21"
+  },
+  {
+    "code": "ME10.1",
+    "category": "Unspecified jaundice",
+    "chapter": "Chapter 21"
+  },
+  {
+    "code": "ME24.A3",
+    "category": "Haematochezia",
+    "chapter": "Chapter 21"
+  },
+  {
+    "code": "ME24.A4",
+    "category": "Melaena",
+    "chapter": "Chapter 21"
+  },
+  {
+    "code": "ME64.1",
+    "category": "Cyanosis",
+    "chapter": "Chapter 21"
+  },
+  {
+    "code": "ME64.2",
+    "category": "Pallor",
+    "chapter": "Chapter 21"
+  },
+  {
+    "code": "ME66.6",
+    "category": "Rash",
+    "chapter": "Chapter 21"
+  },
+  {
+    "code": "ME83",
+    "category": "Rheumatism unspecified",
+    "chapter": "Chapter 21"
+  },
+  {
+    "code": "ME84.2",
+    "category": "Low back pain",
+    "chapter": "Chapter 21"
+  },
+  {
+    "code": "ME84.3",
+    "category": "Sciatica",
+    "chapter": "Chapter 21"
+  },
+  {
+    "code": "ME85",
+    "category": "Stiffness of joint",
+    "chapter": "Chapter 21"
+  },
+  {
+    "code": "MF30",
+    "category": "Breast lump or mass female",
+    "chapter": "Chapter 21"
+  },
+  {
+    "code": "MF3A",
+    "category": "Vaginal discharge",
+    "chapter": "Chapter 21"
+  },
+  {
+    "code": "MF50.2",
+    "category": "Urinary incontinence",
+    "chapter": "Chapter 21"
+  },
+  {
+    "code": "MF50.3",
+    "category": "Retention of urine",
+    "chapter": "Chapter 21"
+  },
+  {
+    "code": "MF50.4",
+    "category": "Haematuria",
+    "chapter": "Chapter 21"
+  },
+  {
+    "code": "MF50.7",
+    "category": "Dysuria",
+    "chapter": "Chapter 21"
+  },
+  {
+    "code": "MF51",
+    "category": "Anuria or oliguria",
+    "chapter": "Chapter 21"
+  },
+  {
+    "code": "MF55",
+    "category": "Polyuria",
+    "chapter": "Chapter 21"
+  },
+  {
+    "code": "MF56",
+    "category": "Renal colic",
+    "chapter": "Chapter 21"
+  },
+  {
+    "code": "MF58",
+    "category": "Urethral discharge",
+    "chapter": "Chapter 21"
+  },
+  {
+    "code": "MF84",
+    "category": "Pauci-immune proliferative glomerulonephritis",
+    "chapter": "Chapter 21"
+  },
+  {
+    "code": "MF94",
+    "category": "Haemoglobinuria",
+    "chapter": "Chapter 21"
+  },
+  {
+    "code": "MF96",
+    "category": "Proteinuria",
+    "chapter": "Chapter 21"
+  },
+  {
+    "code": "MF97",
+    "category": "Pyuria",
+    "chapter": "Chapter 21"
+  },
+  {
+    "code": "MG20",
+    "category": "Cachexia",
+    "chapter": "Chapter 21"
+  },
+  {
+    "code": "MG22",
+    "category": "Fatigue",
+    "chapter": "Chapter 21"
+  },
+  {
+    "code": "MG29",
+    "category": "Oedema",
+    "chapter": "Chapter 21"
+  },
+  {
+    "code": "MG29.0",
+    "category": "Localised oedema",
+    "chapter": "Chapter 21"
+  },
+  {
+    "code": "MG29.1",
+    "category": "Generalised oedema",
+    "chapter": "Chapter 21"
+  },
+  {
+    "code": "MG40",
+    "category": "Shock",
+    "chapter": "Chapter 21"
+  },
+  {
+    "code": "MG43.0",
+    "category": "Polydipsia",
+    "chapter": "Chapter 21"
+  },
+  {
+    "code": "MG45",
+    "category": "Syncope and collapse",
+    "chapter": "Chapter 21"
+  },
+  {
+    "code": "MH11",
+    "category": "Sudden infant death syndrome",
+    "chapter": "Chapter 21"
+  },
+  {
+    "code": "MH16",
+    "category": "Multi organ failure",
+    "chapter": "Chapter 21"
+  },
+  {
+    "code": "NA00",
+    "category": "Superficial injury of head",
+    "chapter": "Chapter 22"
+  },
+  {
+    "code": "NA00.0Y",
+    "category": "Other specified superficial injury of scalp",
+    "chapter": "Chapter 22"
+  },
+  {
+    "code": "NA00.1",
+    "category": "Superficial injury of eyelid or periocular area",
+    "chapter": "Chapter 22"
+  },
+  {
+    "code": "NA01",
+    "category": "Open wound of head",
+    "chapter": "Chapter 22"
+  },
+  {
+    "code": "NA02",
+    "category": "Fracture of skull or facial bones",
+    "chapter": "Chapter 22"
+  },
+  {
+    "code": "NA02.1",
+    "category": "Fracture of base of skull",
+    "chapter": "Chapter 22"
+  },
+  {
+    "code": "NA02.3",
+    "category": "Fracture of nasal bones",
+    "chapter": "Chapter 22"
+  },
+  {
+    "code": "NA02.5",
+    "category": "Fracture of zygoma",
+    "chapter": "Chapter 22"
+  },
+  {
+    "code": "NA02.6",
+    "category": "Fracture of tooth",
+    "chapter": "Chapter 22"
+  },
+  {
+    "code": "NA02.7",
+    "category": "Fracture of mandible",
+    "chapter": "Chapter 22"
+  },
+  {
+    "code": "NA03.0",
+    "category": "Dislocation of jaw",
+    "chapter": "Chapter 22"
+  },
+  {
+    "code": "NA04",
+    "category": "Injury of cranial nerves",
+    "chapter": "Chapter 22"
+  },
+  {
+    "code": "NA06",
+    "category": "Injury of eye or orbit",
+    "chapter": "Chapter 22"
+  },
+  {
+    "code": "NA06.8",
+    "category": "Traumatic injury to eyeball",
+    "chapter": "Chapter 22"
+  },
+  {
+    "code": "NA07",
+    "category": "Intracranial injury",
+    "chapter": "Chapter 22"
+  },
+  {
+    "code": "NA07.0",
+    "category": "Concussion",
+    "chapter": "Chapter 22"
+  },
+  {
+    "code": "NA07.2",
+    "category": "Traumatic cerebral oedema",
+    "chapter": "Chapter 22"
+  },
+  {
+    "code": "NA08",
+    "category": "Crushing injury of head",
+    "chapter": "Chapter 22"
+  },
+  {
+    "code": "NA09.0",
+    "category": "Avulsion of scalp",
+    "chapter": "Chapter 22"
+  },
+  {
+    "code": "NA0A.Y",
+    "category": "Other specified injuries of head",
+    "chapter": "Chapter 22"
+  },
+  {
+    "code": "NA20",
+    "category": "Superficial injury of neck",
+    "chapter": "Chapter 22"
+  },
+  {
+    "code": "NA21",
+    "category": "Open wound of neck",
+    "chapter": "Chapter 22"
+  },
+  {
+    "code": "NA22",
+    "category": "Fracture of neck",
+    "chapter": "Chapter 22"
+  },
+  {
+    "code": "NA22.12",
+    "category": "Fracture of odontoid process",
+    "chapter": "Chapter 22"
+  },
+  {
+    "code": "NA23.1",
+    "category": "Dislocation of cervical vertebra",
+    "chapter": "Chapter 22"
+  },
+  {
+    "code": "NA6Y",
+    "category": "Other specified injuries to the neck",
+    "chapter": "Chapter 22"
+  },
+  {
+    "code": "NA80",
+    "category": "Superficial injury of thorax",
+    "chapter": "Chapter 22"
+  },
+  {
+    "code": "NA81",
+    "category": "Open wound of thorax",
+    "chapter": "Chapter 22"
+  },
+  {
+    "code": "NA82",
+    "category": "Fracture of rib sternum or thoracic spine",
+    "chapter": "Chapter 22"
+  },
+  {
+    "code": "NA82.3",
+    "category": "Fracture of rib",
+    "chapter": "Chapter 22"
+  },
+  {
+    "code": "NA82.4",
+    "category": "Multiple fractures of ribs",
+    "chapter": "Chapter 22"
+  },
+  {
+    "code": "NA82.5",
+    "category": "Flail chest",
+    "chapter": "Chapter 22"
+  },
+  {
+    "code": "NB31",
+    "category": "Injury of heart",
+    "chapter": "Chapter 22"
+  },
+  {
+    "code": "NB32.0",
+    "category": "Traumatic pneumothorax",
+    "chapter": "Chapter 22"
+  },
+  {
+    "code": "NB32.1",
+    "category": "Traumatic haemothorax",
+    "chapter": "Chapter 22"
+  },
+  {
+    "code": "NB32.2",
+    "category": "Traumatic haemopneumothorax",
+    "chapter": "Chapter 22"
+  },
+  {
+    "code": "NB3Y",
+    "category": "Other specified injuries to the thorax",
+    "chapter": "Chapter 22"
+  },
+  {
+    "code": "NB50",
+    "category": "Superficial injury of abdomen lower back or pelvis",
+    "chapter": "Chapter 22"
+  },
+  {
+    "code": "NB51",
+    "category": "Open wound of abdomen lower back or pelvis",
+    "chapter": "Chapter 22"
+  },
+  {
+    "code": "NB52",
+    "category": "Fracture of lumbar spine or pelvis",
+    "chapter": "Chapter 22"
+  },
+  {
+    "code": "NB52.0",
+    "category": "Fracture of lumbar vertebra",
+    "chapter": "Chapter 22"
+  },
+  {
+    "code": "NB52.11",
+    "category": "Fracture of coccyx",
+    "chapter": "Chapter 22"
+  },
+  {
+    "code": "NB91",
+    "category": "Injury of intra-abdominal organs",
+    "chapter": "Chapter 22"
+  },
+  {
+    "code": "NB92",
+    "category": "Injury of urinary or pelvic organs",
+    "chapter": "Chapter 22"
+  },
+  {
+    "code": "NC10",
+    "category": "Superficial injury of shoulder or upper arm",
+    "chapter": "Chapter 22"
+  },
+  {
+    "code": "NC11",
+    "category": "Open wound of shoulder or upper arm",
+    "chapter": "Chapter 22"
+  },
+  {
+    "code": "NC12",
+    "category": "Fracture of shoulder or upper arm",
+    "chapter": "Chapter 22"
+  },
+  {
+    "code": "NC12.0",
+    "category": "Fracture of clavicle",
+    "chapter": "Chapter 22"
+  },
+  {
+    "code": "NC12.1",
+    "category": "Fracture of scapula",
+    "chapter": "Chapter 22"
+  },
+  {
+    "code": "NC13.0",
+    "category": "Dislocation of shoulder joint",
+    "chapter": "Chapter 22"
+  },
+  {
+    "code": "NC13.Z",
+    "category": "Dislocation or strain or sprain of joints or ligaments of shoulder girdle unspecified",
+    "chapter": "Chapter 22"
+  },
+  {
+    "code": "NC17",
+    "category": "Crushing injury of shoulder or upper arm",
+    "chapter": "Chapter 22"
+  },
+  {
+    "code": "NC30",
+    "category": "Superficial injury of forearm",
+    "chapter": "Chapter 22"
+  },
+  {
+    "code": "NC31",
+    "category": "Open wound of forearm",
+    "chapter": "Chapter 22"
+  },
+  {
+    "code": "NC32",
+    "category": "Fracture of forearm",
+    "chapter": "Chapter 22"
+  },
+  {
+    "code": "NC33",
+    "category": "Dislocation or strain or sprain of joints or ligaments of elbow",
+    "chapter": "Chapter 22"
+  },
+  {
+    "code": "NC37",
+    "category": "Crushing injury of forearm",
+    "chapter": "Chapter 22"
+  },
+  {
+    "code": "NC38",
+    "category": "Traumatic amputation of forearm",
+    "chapter": "Chapter 22"
+  },
+  {
+    "code": "NC50",
+    "category": "Injury to fingernail",
+    "chapter": "Chapter 22"
+  },
+  {
+    "code": "NC51",
+    "category": "Superficial injury of wrist or hand",
+    "chapter": "Chapter 22"
+  },
+  {
+    "code": "NC52",
+    "category": "Open wound of wrist or hand",
+    "chapter": "Chapter 22"
+  },
+  {
+    "code": "NC53",
+    "category": "Fracture at wrist or hand level",
+    "chapter": "Chapter 22"
+  },
+  {
+    "code": "NC54.2Y",
+    "category": "Dislocation of other specified part of finger",
+    "chapter": "Chapter 22"
+  },
+  {
+    "code": "NC70",
+    "category": "Superficial injury of hip or thigh",
+    "chapter": "Chapter 22"
+  },
+  {
+    "code": "NC72",
+    "category": "Fracture of femur",
+    "chapter": "Chapter 22"
+  },
+  {
+    "code": "NC91",
+    "category": "Open wound of knee or lower leg",
+    "chapter": "Chapter 22"
+  },
+  {
+    "code": "NC92",
+    "category": "Fracture of lower leg including ankle",
+    "chapter": "Chapter 22"
+  },
+  {
+    "code": "NC93",
+    "category": "Dislocation or strain or sprain of joints or ligaments of knee",
+    "chapter": "Chapter 22"
+  },
+  {
+    "code": "NC93.2",
+    "category": "Dislocation of knee",
+    "chapter": "Chapter 22"
+  },
+  {
+    "code": "ND10",
+    "category": "Injury to toenail",
+    "chapter": "Chapter 22"
+  },
+  {
+    "code": "ND11",
+    "category": "Superficial injury of ankle or foot",
+    "chapter": "Chapter 22"
+  },
+  {
+    "code": "ND19",
+    "category": "Traumatic amputation of ankle or foot",
+    "chapter": "Chapter 22"
+  },
+  {
+    "code": "ND70",
+    "category": "Foreign body on external eye",
+    "chapter": "Chapter 22"
+  },
+  {
+    "code": "ND71",
+    "category": "Foreign body in ear",
+    "chapter": "Chapter 22"
+  },
+  {
+    "code": "ND72",
+    "category": "Foreign body in respiratory tract",
+    "chapter": "Chapter 22"
+  },
+  {
+    "code": "NE01",
+    "category": "Burn of respiratory tract",
+    "chapter": "Chapter 22"
+  },
+  {
+    "code": "NE2Z",
+    "category": "Burns unspecified",
+    "chapter": "Chapter 22"
+  },
+  {
+    "code": "NE4Z",
+    "category": "Frostbite unspecified",
+    "chapter": "Chapter 22"
+  },
+  {
+    "code": "NE60&NE60&XM1X11",
+    "category": "Carbon monoxide poisoning",
+    "chapter": "Chapter 22"
+  },
+  {
+    "code": "NE60&XM0TV9",
+    "category": "Formaldehyde poisoning",
+    "chapter": "Chapter 22"
+  },
+  {
+    "code": "NE60&XM0ZH6",
+    "category": "Lead poisoning",
+    "chapter": "Chapter 22"
+  },
+  {
+    "code": "NE60&XM32P2",
+    "category": "Pentachlorophenol poisoning",
+    "chapter": "Chapter 22"
+  },
+  {
+    "code": "NE60&XM3ES1",
+    "category": "Tranquilizers poisoning",
+    "chapter": "Chapter 22"
+  },
+  {
+    "code": "NE60&XM4XU4",
+    "category": "Chlorinated hydrocarbons poisoning",
+    "chapter": "Chapter 22"
+  },
+  {
+    "code": "NE60&XM4YG0",
+    "category": "Barbiturate poisoning",
+    "chapter": "Chapter 22"
+  },
+  {
+    "code": "NE60&XM7154",
+    "category": "Organophosphate insecticide poisoning",
+    "chapter": "Chapter 22"
+  },
+  {
+    "code": "NE60&XM86W0",
+    "category": "Warfarin poisoning",
+    "chapter": "Chapter 22"
+  },
+  {
+    "code": "NE60&XM96H3",
+    "category": "Carbamates poisoning",
+    "chapter": "Chapter 22"
+  },
+  {
+    "code": "NE60&XM9EL1",
+    "category": "DDT chlorophenothane poisoning",
+    "chapter": "Chapter 22"
+  },
+  {
+    "code": "NE60&XM9JS2",
+    "category": "Strychnine rodenticide poisoning",
+    "chapter": "Chapter 22"
+  },
+  {
+    "code": "NF05",
+    "category": "Asphyxiation",
+    "chapter": "Chapter 22"
+  },
+  {
+    "code": "NF08.0",
+    "category": "Effects of lightning",
+    "chapter": "Chapter 22"
+  },
+  {
+    "code": "NF08.1",
+    "category": "Drowning or nonfatal submersion",
+    "chapter": "Chapter 22"
+  },
+  {
+    "code": "NF2Y",
+    "category": "Other specified injury poisoning or certain other consequences of external causes",
+    "chapter": "Chapter 22"
+  },
+  {
+    "code": "PA5Z",
+    "category": "Unintentional transport injury event unspecified",
+    "chapter": "Chapter 23"
+  },
+  {
+    "code": "PA6Z",
+    "category": "Unintentional fall from unspecified height",
+    "chapter": "Chapter 23"
+  },
+  {
+    "code": "PA72",
+    "category": "Unintentionally stepped on or crushed by person",
+    "chapter": "Chapter 23"
+  },
+  {
+    "code": "PA78",
+    "category": "Unintentionally stung or envenomated by animal",
+    "chapter": "Chapter 23"
+  },
+  {
+    "code": "PA79",
+    "category": "Unintentionally injured by contact with plant",
+    "chapter": "Chapter 23"
+  },
+  {
+    "code": "PA80",
+    "category": "Unintentionally struck by projectile from firearm",
+    "chapter": "Chapter 23"
+  },
+  {
+    "code": "PA82",
+    "category": "Unintentional striking against stationary object",
+    "chapter": "Chapter 23"
+  },
+  {
+    "code": "PA83",
+    "category": "Unintentionally cut or pierced by sharp object",
+    "chapter": "Chapter 23"
+  },
+  {
+    "code": "PA84",
+    "category": "Unintentionally struck by blunt object",
+    "chapter": "Chapter 23"
+  },
+  {
+    "code": "PA8Y",
+    "category": "Unintentional exposure to other specified object not elsewhere classified",
+    "chapter": "Chapter 23"
+  },
+  {
+    "code": "PB02",
+    "category": "Unintentional threat to breathing by strangulation",
+    "chapter": "Chapter 23"
+  },
+  {
+    "code": "PB05",
+    "category": "Unintentional threat to breathing by inhalation or ingestion of liquids",
+    "chapter": "Chapter 23"
+  },
+  {
+    "code": "PB08",
+    "category": "Unintentional threat to breathing from low oxygen environment",
+    "chapter": "Chapter 23"
+  },
+  {
+    "code": "PB0Y",
+    "category": "Unintentional threat to breathing by other specified means",
+    "chapter": "Chapter 23"
+  },
+  {
+    "code": "PB10",
+    "category": "Unintentional exposure to uncontrolled fire",
+    "chapter": "Chapter 23"
+  },
+  {
+    "code": "PB11",
+    "category": "Unintentional exposure to controlled fire",
+    "chapter": "Chapter 23"
+  },
+  {
+    "code": "PB13",
+    "category": "Unintentional contact with hot object or liquid",
+    "chapter": "Chapter 23"
+  },
+  {
+    "code": "PB16",
+    "category": "Unintentional exposure to excessive cold",
+    "chapter": "Chapter 23"
+  },
+  {
+    "code": "PB20",
+    "category": "Unintentional exposure to or harmful effects of opioids or related analgesics",
+    "chapter": "Chapter 23"
+  },
+  {
+    "code": "PB22",
+    "category": "Unintentional exposure to or harmful effects of psychostimulants",
+    "chapter": "Chapter 23"
+  },
+  {
+    "code": "PB27",
+    "category": "Unintentional exposure to or harmful effects of antiepileptics or antiparkinsonism drugs",
+    "chapter": "Chapter 23"
+  },
+  {
+    "code": "PB31",
+    "category": "Unintentional exposure to or harmful effects of organic solvents",
+    "chapter": "Chapter 23"
+  },
+  {
+    "code": "PB33",
+    "category": "Unintentional exposure to or harmful effects of pesticides",
+    "chapter": "Chapter 23"
+  },
+  {
+    "code": "PB50",
+    "category": "Unintentional exposure to foreign body in orifice",
+    "chapter": "Chapter 23"
+  },
+  {
+    "code": "PB51",
+    "category": "Unintentional exposure to electric current",
+    "chapter": "Chapter 23"
+  },
+  {
+    "code": "PB53",
+    "category": "Unintentional exposure to radiation",
+    "chapter": "Chapter 23"
+  },
+  {
+    "code": "PB54",
+    "category": "Unintentional exposure to high or low air pressure or changes in air pressure",
+    "chapter": "Chapter 23"
+  },
+  {
+    "code": "PB55",
+    "category": "Unintentional exposure to explosion",
+    "chapter": "Chapter 23"
+  },
+  {
+    "code": "PC31",
+    "category": "Intentional self-harm by fall or jump from a height of 1 metre or more",
+    "chapter": "Chapter 23"
+  },
+  {
+    "code": "PC53",
+    "category": "Intentional self-harm by being cut or pierced by sharp object",
+    "chapter": "Chapter 23"
+  },
+  {
+    "code": "PC54",
+    "category": "Intentional self-harm by being struck by blunt object",
+    "chapter": "Chapter 23"
+  },
+  {
+    "code": "PC78",
+    "category": "Intentional self-harm by threat to breathing from low oxygen environment",
+    "chapter": "Chapter 23"
+  },
+  {
+    "code": "PC90",
+    "category": "Intentional self-harm by exposure to or harmful effects of opioids or related analgesics",
+    "chapter": "Chapter 23"
+  },
+  {
+    "code": "PC92",
+    "category": "Intentional self-harm by exposure to or harmful effects of psychostimulants",
+    "chapter": "Chapter 23"
+  },
+  {
+    "code": "PD03",
+    "category": "Intentional self-harm by exposure to or harmful effects of pesticides",
+    "chapter": "Chapter 23"
+  },
+  {
+    "code": "PD9Z",
+    "category": "Assault by transport injury event unspecified",
+    "chapter": "Chapter 23"
+  },
+  {
+    "code": "PE31",
+    "category": "Assault by being cut or pierced by sharp glass",
+    "chapter": "Chapter 23"
+  },
+  {
+    "code": "PE3Z",
+    "category": "Assault by being cut or pierced by other or unspecified sharp object",
+    "chapter": "Chapter 23"
+  },
+  {
+    "code": "PE40",
+    "category": "Assault by being struck by blunt object",
+    "chapter": "Chapter 23"
+  },
+  {
+    "code": "PE62",
+    "category": "Assault by threat to breathing by strangulation",
+    "chapter": "Chapter 23"
+  },
+  {
+    "code": "PE70",
+    "category": "Assault by exposure to uncontrolled fire",
+    "chapter": "Chapter 23"
+  },
+  {
+    "code": "PJ00",
+    "category": "Victim of lightning",
+    "chapter": "Chapter 23"
+  },
+  {
+    "code": "PJ01",
+    "category": "Victim of earthquake",
+    "chapter": "Chapter 23"
+  },
+  {
+    "code": "QA00.0",
+    "category": "General adult medical examination",
+    "chapter": "Chapter 24"
+  },
+  {
+    "code": "QA00.4",
+    "category": "Examination of potential donor of organ or tissue",
+    "chapter": "Chapter 24"
+  },
+  {
+    "code": "QA00.6",
+    "category": "Examination of eyes or vision",
+    "chapter": "Chapter 24"
+  },
+  {
+    "code": "QA00.7",
+    "category": "Examination of ears and hearing",
+    "chapter": "Chapter 24"
+  },
+  {
+    "code": "QA00.8",
+    "category": "Dental examination",
+    "chapter": "Chapter 24"
+  },
+  {
+    "code": "QA01.0",
+    "category": "Examination for admission to educational institution",
+    "chapter": "Chapter 24"
+  },
+  {
+    "code": "QA01.1",
+    "category": "Pre-employment examination",
+    "chapter": "Chapter 24"
+  },
+  {
+    "code": "QA01.3",
+    "category": "Examination for recruitment to armed forces",
+    "chapter": "Chapter 24"
+  },
+  {
+    "code": "QA01.4",
+    "category": "Examination for driving license",
+    "chapter": "Chapter 24"
+  },
+  {
+    "code": "QA01.5",
+    "category": "Examination for participation in sport",
+    "chapter": "Chapter 24"
+  },
+  {
+    "code": "QA01.6",
+    "category": "Examination for insurance purposes",
+    "chapter": "Chapter 24"
+  },
+  {
+    "code": "QA01.7",
+    "category": "Issue of medical certificate",
+    "chapter": "Chapter 24"
+  },
+  {
+    "code": "QA04.51",
+    "category": "Examination or observation for suspected sexual maltreatment",
+    "chapter": "Chapter 24"
+  },
+  {
+    "code": "QA04.7",
+    "category": "Examination for medicolegal reasons",
+    "chapter": "Chapter 24"
+  },
+  {
+    "code": "QA40",
+    "category": "Pregnancy examination or test",
+    "chapter": "Chapter 24"
+  },
+  {
+    "code": "RA01.0",
+    "category": "COVID-19 virus identified",
+    "chapter": "Chapter 25"
+  },
+  {
+    "code": "RA01.1",
+    "category": "COVID-19 virus not identified",
+    "chapter": "Chapter 25"
+  },
+  {
+    "code": "RA02",
+    "category": "Post COVID-19 condition",
+    "chapter": "Chapter 25"
+  },
+  {
+    "code": "XE42A",
+    "category": "Vehicle driver injured in transport related event",
+    "chapter": "Chapter X"
+  },
+  {
+    "code": "XE7NK",
+    "category": "Motorcycle as mode of transport of person injured in transport related event",
+    "chapter": "Chapter X"
+  },
+  {
+    "code": "XE940",
+    "category": "Animal being ridden as mode of transport of person injured in transport related event",
+    "chapter": "Chapter X"
+  },
+  {
+    "code": "XE97V",
+    "category": "Intentional self-harm person intended to die",
+    "chapter": "Chapter X"
+  },
+  {
+    "code": "XJ44E",
+    "category": "Closed fracture",
+    "chapter": "Chapter X"
+  },
+  {
+    "code": "XJ7YM",
+    "category": "Open fracture",
+    "chapter": "Chapter X"
+  }
+]
