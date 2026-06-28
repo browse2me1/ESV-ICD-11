@@ -443,7 +443,7 @@ document.addEventListener('click',e=>{
      !menu.contains(e.target) &&
      !btn.contains(e.target)){
 
-    sidebar.classList.remove('open');
+    menu.classList.remove('open');
   }
 });
 
