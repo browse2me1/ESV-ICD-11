@@ -437,7 +437,7 @@ function showSection(sectionId, clickedItem){
 // ======================
 document.addEventListener('click',e=>{
   const menu=document.getElementById('menuToggle');
-  const btn=document.getElementById('menu');
+  const btn=document.getElementById('sidebar');
   if(menu.classList.contains('open')&&!menu.contains(e.target)&&!btn.contains(e.target)){
     menu.classList.remove('open');
   }
