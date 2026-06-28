@@ -435,12 +435,17 @@ function showSection(sectionId, clickedItem){
 // ======================
 // INITIALIZE
 // ======================
-document.addEventListener('click',e=>{
-  const menu=document.getElementById('sidebar');
-  const btn=document.getElementById('menuToggle');
-  if(menu.classList.contains('open')&&!menu.contains(e.target)&&!btn.contains(e.target)){
-    menu.classList.remove('open');
-  }
+document.addEventListener("click", (e) => {
+
+    if (
+        window.innerWidth <= 900 &&
+        sidebar.classList.contains("show") &&
+        !sidebar.contains(e.target) &&
+        !menuToggle.contains(e.target)
+    ) {
+        sidebar.classList.remove("show");
+    }
+
 });
 
 loadData();
